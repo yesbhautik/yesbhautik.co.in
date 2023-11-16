@@ -21,14 +21,14 @@ export async function getStaticProps() {
   ]
 
   const featuredPosts = [
-    getPostBySlug('resend-raises-3m-seed-round', featuredParams),
-    getPostBySlug('the-two-types-of-quality', featuredParams),
+    // getPostBySlug('resend-raises-3m-seed-round', featuredParams),
+    getPostBySlug('coming-soon', featuredParams),
   ]
 
   return {
     props: {
-      title: 'Articles // Zeno Rocha',
-      tagline: 'Stories. Updates. Guides.',
+      title: 'Articles // Yesbhautik',
+      tagline: 'Techniques. Updates. Guides.',
       image: '/static/images/articles-bw.jpg',
       primaryColor: 'yellow',
       secondaryColor: 'pink',
@@ -73,7 +73,7 @@ function Articles(props) {
   }
 
   const { title, image } = props
-  const description = `Here you can find all the <strong>${props.allPosts.length} articles</strong> I wrote. You can read about web development, software engineering, and tech career in both English and Portuguese.`
+  const description = `Here you can find all the <strong>${props.allPosts.length} articles</strong> I wrote. You can read about web development, software engineering, and tech career in both English.`
 
   return (
     <>
@@ -82,8 +82,11 @@ function Articles(props) {
         <meta content={title} property="og:title" />
         <meta content={stripHtml(description)} name="description" />
         <meta content={stripHtml(description)} property="og:description" />
-        <meta content="https://zenorocha.com/articles" property="og:url" />
-        <meta content={`https://zenorocha.com${image}`} property="og:image" />
+        <meta content="https://yesbhautik.co.in/articles" property="og:url" />
+        <meta
+          content={`https://yesbhautik.co.in${image}`}
+          property="og:image"
+        />
       </Head>
 
       <AnimateSharedLayout>

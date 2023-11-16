@@ -9,8 +9,8 @@ import { Wrapper } from '../components/Wrapper'
 export async function getStaticProps() {
   return {
     props: {
-      title: 'Zeno Rocha',
-      description: 'Obsessed with developer experience',
+      title: 'Bhautik Bavadiya',
+      description: "But I'm better known by my nickname Yesbhautik!",
       image: '/static/images/home-bw.jpg',
     },
   }
@@ -26,8 +26,11 @@ export default function Index(props) {
         <meta content={title} property="og:title" />
         <meta content={description} name="description" />
         <meta content={description} property="og:description" />
-        <meta content="https://zenorocha.com" property="og:url" />
-        <meta content={`https://zenorocha.com${image}`} property="og:image" />
+        <meta content="https://yesbhautik.co.in" property="og:url" />
+        <meta
+          content={`https://yesbhautik.co.in${image}`}
+          property="og:image"
+        />
       </Head>
 
       <Navbar />
@@ -37,9 +40,13 @@ export default function Index(props) {
             <div>
               <h1>{title}</h1>
               <p>
-                <strong>Founder & CEO at{' '}
-                  <a href="https://resend.com" target="blank">Resend</a>
-                </strong><br />
+                <strong>
+                  Founder & CEO at{' '}
+                  <a href="https://yesbhautikx.co.in" target="blank">
+                    YesbhautikX
+                  </a>
+                </strong>
+                <br />
                 {description}
               </p>
               <ShortcutHome />

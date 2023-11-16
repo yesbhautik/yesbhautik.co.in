@@ -7,16 +7,7 @@ import { useKBar } from 'kbar'
 
 export default function Navbar() {
   const router = useRouter()
-  const pages = [
-    'About',
-    'Articles',
-    'Projects',
-    'Talks',
-    'Podcasts',
-    'Investing',
-    'Uses',
-    'Reminder',
-  ]
+  const pages = ['About', 'Articles', 'Projects', 'Contact', 'Uses', 'Reminder']
   const [hovered, setHovered] = useState('')
   const { query } = useKBar()
 
@@ -24,7 +15,9 @@ export default function Navbar() {
     <AnimateSharedLayout>
       <Header>
         <Link href="/" passHref>
-          <ButtonLogo as="a">z</ButtonLogo>
+          <ButtonLogo>
+            <img src="/static/images/yesbhautik-logo.png" alt="logo" />
+          </ButtonLogo>
         </Link>
 
         <Nav>
@@ -116,8 +109,9 @@ const ButtonHeader = styled('div', {
   color: 'white',
   cursor: 'pointer',
   cursor: 'pointer',
-  height: '34px',
-  padding: '0 10px',
+  // height: '34px',
+  height: '60%',
+  padding: '0 8px',
   transition: 'background $duration ease-in-out',
   '&:hover': { background: '$hover' },
 })
@@ -133,6 +127,7 @@ const ButtonLogo = styled(ButtonHeader, {
   textDecoration: 'none',
   marginLeft: '12px',
   fontFamily: '$heading',
+  width: '32px',
 })
 
 const Nav = styled('nav', {

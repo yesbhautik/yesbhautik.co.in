@@ -10,7 +10,7 @@ import items from '../data/talks'
 
 export async function getStaticProps() {
   const meta = {
-    title: 'Talks // Zeno Rocha',
+    title: 'Talks // Yesbhautik',
     tagline: 'Confs. Meetups. Events.',
     image: '/static/images/talks-bw.jpg',
     primaryColor: 'purple',
@@ -72,8 +72,11 @@ function Talks(props) {
         <meta content={title} property="og:title" />
         <meta content={stripHtml(description)} name="description" />
         <meta content={stripHtml(description)} property="og:description" />
-        <meta content="https://zenorocha.com/talks" property="og:url" />
-        <meta content={`https://zenorocha.com${image}`} property="og:image" />
+        <meta content="https://yesbhautik.co.in/talks" property="og:url" />
+        <meta
+          content={`https://yesbhautik.co.in${image}`}
+          property="og:image"
+        />
       </Head>
 
       <AnimateSharedLayout>

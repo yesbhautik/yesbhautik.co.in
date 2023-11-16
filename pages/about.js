@@ -15,10 +15,10 @@ import downloadIcon from '../public/static/icons/download.json'
 
 export async function getStaticProps() {
   const meta = {
-    title: 'About // Zeno Rocha',
+    title: 'About // Yesbhautik',
     description:
-      "Zeno Rocha is a Brazilian creator and programmer. He currently lives in San Francisco, California, where he's the Founder & CEO at Resend. His lifelong appreciation for building software and sharing knowledge led him to speak in over 110 conferences worldwide. His passion for open source put him on the top 20 most active users on GitHub at age 22. Before moving to the US, Zeno developed multiple applications, mentored startups, and worked at major companies in Latin America, such as Globo and Petrobras.",
-    tagline: 'Create. Share. Repeat.',
+      'Bhautik Bavadiya [Yesbhautik] is a Indian technologist & developer. He currently lives in Gujarat, India. Where he is the Founder and CEO at YesbhautikX. His lifelong appreciation for implementing new technologies and sharing the knowledge to world. He is always ready to contribute open-source & non-profit projects. Bhautik Bavadiya [Yesbhautik] developed multiple online platforms, mentored startups, and worked at many companies in India.',
+    tagline: 'Learn. Share. Grow.',
     image: '/static/images/about-bw.jpg',
     primaryColor: 'pink',
     secondaryColor: 'purple',
@@ -40,8 +40,8 @@ function About(props) {
       <Container>
         <Section>
           <Image
-            alt="Zeno"
-            src="/static/images/zeno-bw.jpg"
+            alt="Bhautik Bavadiya ~ Yesbhautik"
+            src="/static/images/yesbhautik-bw.png"
             width="336"
             height="336"
             placeholder="blur"
@@ -56,21 +56,21 @@ function About(props) {
               '@bp2': { marginTop: '-6px' },
             }}
           >
-            <strong>Hey, I'm Zeno Rocha</strong>
-            <Pronunciation />
-            I started as a software engineer back in 2009, working with Flash.
+            <strong>Hey, I'm Bhautik Bavadiya</strong>
+            <Pronunciation />I started as a web developer back in 2017, working
+            with Flash.
           </Paragraph>
           <Paragraph>
-            I'm the <strong>Founder & CEO</strong> at
-            Resend. Before that, I was a VP of Developer Experience at WorkOS and CPO at Liferay Cloud. I'm originally
-            from Brazil and now living in{' '}
-            <strong>San Francisco, California</strong> with my amazing wife and
-            beautiful daughter.
+            I'm the <strong>Founder & CEO</strong> at YesbhautikX. With this,
+            Along with that, I am pursuing my college degree at{' '}
+            <strong>Indus University at Ahmedabad</strong>. I'm originally from
+            India and now living in <strong>Gujarat</strong> with my lovely Mom
+            & Dad.
           </Paragraph>
           <Paragraph>
             <strong>I love dark mode</strong>, open source, and side projects.
-            When I'm not working, I like running, watching movies, and{' '}
-            <strong>eating cheese</strong>.
+            When I'm not working, I like traveling, watching movies, and{' '}
+            <strong>eating street food</strong>.
           </Paragraph>
         </Section>
       </Container>
@@ -78,7 +78,11 @@ function About(props) {
   }
 
   const renderBio = () => {
-    const btnStyle = { display: 'inline-flex', justifyContent: 'center', alignItems: 'center' }
+    const btnStyle = {
+      display: 'inline-flex',
+      justifyContent: 'center',
+      alignItems: 'center',
+    }
     const iconStyle = { width: 24, height: 24, marginRight: 8 }
 
     return (
@@ -98,7 +102,13 @@ function About(props) {
             onMouseEnter={() => copyBioRef.current?.play()}
             onMouseLeave={() => copyBioRef.current?.stop()}
           >
-            <Lottie lottieRef={copyBioRef} style={iconStyle} animationData={copyBioIcon} loop={false} autoplay={false} />
+            <Lottie
+              lottieRef={copyBioRef}
+              style={iconStyle}
+              animationData={copyBioIcon}
+              loop={false}
+              autoplay={false}
+            />
             Copy Bio
           </ButtonPrimary>
           <span style={{ margin: '0 20px 0 10px' }}>•</span>
@@ -106,13 +116,19 @@ function About(props) {
             as="a"
             download
             role="button"
-            href="/static/images/zeno.png"
+            href="/static/images/yesbhautik.png"
             style={btnStyle}
             onClick={downloadHeadshot}
             onMouseEnter={() => downloadRef.current?.play()}
             onMouseLeave={() => downloadRef.current?.stop()}
           >
-            <Lottie lottieRef={downloadRef} style={iconStyle} animationData={downloadIcon} loop={false} autoplay={false} />
+            <Lottie
+              lottieRef={downloadRef}
+              style={iconStyle}
+              animationData={downloadIcon}
+              loop={false}
+              autoplay={false}
+            />
             Download Headshot
           </ButtonPrimary>
         </ButtonsContainer>
@@ -188,8 +204,11 @@ function About(props) {
         <meta content={title} property="og:title" />
         <meta content={stripHtml(description)} name="description" />
         <meta content={stripHtml(description)} property="og:description" />
-        <meta content="https://zenorocha.com/about" property="og:url" />
-        <meta content={`https://zenorocha.com${image}`} property="og:image" />
+        <meta content="https://yesbhautik.co.in/about" property="og:url" />
+        <meta
+          content={`https://yesbhautik.co.in${image}`}
+          property="og:image"
+        />
       </Head>
 
       {renderIntro()}

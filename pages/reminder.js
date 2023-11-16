@@ -5,7 +5,7 @@ import { Box } from '../components/Box'
 
 export async function getStaticProps() {
   const meta = {
-    title: 'Reminder // Zeno Rocha',
+    title: 'Reminder // Yesbhautik',
     description:
       'Time is the most important asset. Time does not equal money. Time equals life. And you only have one chance to make it right.',
     tagline: 'Tick-tock. Tick-tock.',
@@ -27,41 +27,41 @@ function Reminder(props) {
         <meta content={title} property="og:title" />
         <meta content={description} name="description" />
         <meta content={description} property="og:description" />
-        <meta content="https://zenorocha.com/reminder" property="og:url" />
-        <meta content={`https://zenorocha.com${image}`} property="og:image" />
+        <meta content="https://yesbhautik.co.in/reminder" property="og:url" />
+        <meta
+          content={`https://yesbhautik.co.in${image}`}
+          property="og:image"
+        />
       </Head>
 
       <Box css={{ textAlign: 'justify' }}>
         <p>
-          <strong>Time is the most important asset.</strong> Time does not equal
-          money. <strong>Time equals life.</strong> And you only have one chance
-          to make it right.{' '}
-          <strong>
-            Every human being is fighting a battle inside themselves.
-          </strong>{' '}
-          It's your <strong>obligation</strong> to help and{' '}
-          <strong>inspire</strong> them. Regardless of what you do, you can
-          always inspire others to do good. Nobody is better than you.{' '}
-          <strong>And you're not better than anybody else.</strong> Be humble.
-          Being in the <strong>comfort zone</strong> is wonderful, but nothing
-          ever grows there. Keep studying. <strong>Keep creating.</strong>{' '}
-          Haters will come if you have the{' '}
-          <strong>audacity to build something new</strong>. Don't let them
-          define you. <strong>Don't let them stop you.</strong> Just block them
-          and keep going. Don't expect <strong>others to make you happy</strong>
-          . You are the only one <strong>responsible for your happiness</strong>
-          . <strong>Don't wait</strong> until friday to enjoy life. Joy should
-          be present in everything you do.{' '}
-          <strong>Be kind to your parents</strong>. They gave up many things for
-          you. Having hundreds of <strong>people admiring you</strong> is
-          worthless, if you're not admired by your own family. Don't fear the
-          unknown. Fear knowing everything.{' '}
-          <strong>Life is too damn short</strong> and every day counts.{' '}
-          <strong>Do what you wanna do and do it now</strong>. Tick-tock don't
-          stop. Tick-tock don't wait.
+          <strong>Time is a precious resource</strong>, representing the essence
+          of life itself. It's not simply about money, but about the{' '}
+          <strong>moments that shape our existence</strong>. We all grapple with{' '}
+          <strong>internal struggles</strong>, and it's our{' '}
+          <strong>duty</strong> to uplift and inspire one another. Regardless of
+          your path, you have the{' '}
+          <strong>power to motivate others to do good</strong>. No one is
+          inherently <strong>superior</strong> or <strong>inferior</strong>.
+          Humility is key. While <strong>comfort zones</strong> provide
+          security, growth thrives beyond them.{' '}
+          <strong>Keep learning & creating</strong>, even when faced with
+          criticism from those who dare not innovate.{' '}
+          <strong>Don't let negativity define or deter you</strong>, simply move
+          forward and block out the noise.{' '}
+          <strong>Your happiness is your responsibility</strong>, so find joy in
+          every moment, <strong>not just on Fridays</strong>.{' '}
+          <strong>Show gratitude to your parents</strong>, who sacrificed for
+          your sake. True admiration begins at home. Embrace the unknown, for
+          the real fear lies in knowing everything.{' '}
+          <strong>Life is fleeting, and each day is a gift</strong>. Pursue your
+          <strong>dreams</strong> today, for{' '}
+          <strong>time never stops, and opportunities are fleeting</strong>.
+          Tick-tock, keep moving forward, and don't wait.
         </p>
         <p>
-          <em>- by Zeno & Carol</em>
+          <em>- by Bhautik Bavadiya [Yesbhautik]</em>
         </p>
       </Box>
     </>
