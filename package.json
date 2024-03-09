@@ -3,6 +3,7 @@
   "name": "yesbhautik.co.in",
   "version": "5.0.0",
   "scripts": {
+    "start": "next start",
     "dev": "next dev",
     "build": "next build",
     "lint": "next lint",
