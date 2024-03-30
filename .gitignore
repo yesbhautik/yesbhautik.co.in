@@ -5,3 +5,4 @@ package-lock.json
 yarn.lock
 auth.json
 node_modules
+package-lock.json
