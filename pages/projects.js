@@ -11,7 +11,7 @@ export async function getStaticProps() {
   const meta = {
     title: 'Projects // Yesbhautik',
     tagline: 'Work. Hobby. Open Source.',
-    image: '/static/images/projects-bw.jpg',
+    image: '/static/images/projects.jpg',
     primaryColor: 'cyan',
     secondaryColor: 'green',
   }

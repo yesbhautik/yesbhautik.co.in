@@ -41,7 +41,7 @@ function About(props) {
         <Section>
           <Image
             alt="Bhautik Bavadiya ~ Yesbhautik"
-            src="/static/images/yesbhautik-bw.png"
+            src="/static/images/yesbhautik-new-green-small.png"
             width="336"
             height="336"
             placeholder="blur"
@@ -116,7 +116,7 @@ function About(props) {
             as="a"
             download
             role="button"
-            href="/static/images/yesbhautik.png"
+            href="/static/images/yesbhautik-new-yellow.png"
             style={btnStyle}
             onClick={downloadHeadshot}
             onMouseEnter={() => downloadRef.current?.play()}

@@ -12,7 +12,7 @@ export async function getStaticProps() {
     description:
       "<strong>Angel investing</strong> is how I help other startups to create amazing developer experiences. I'm excited to enable teams to grow and <strong>build world-class products</strong>.",
     tagline: 'DevTools. B2B. SaaS.',
-    image: '/static/images/projects-bw.jpg',
+    image: '/static/images/projects.jpg',
     primaryColor: 'purple',
     secondaryColor: 'cyan',
   }
@@ -37,7 +37,10 @@ function Investing(props) {
         <meta content={stripHtml(description)} name="description" />
         <meta content={stripHtml(description)} property="og:description" />
         <meta content="https://yesbhautik.co.in/investing" property="og:url" />
-        <meta content={`https://yesbhautik.co.in${image}`} property="og:image" />
+        <meta
+          content={`https://yesbhautik.co.in${image}`}
+          property="og:image"
+        />
       </Head>
 
       <p dangerouslySetInnerHTML={{ __html: description }} />

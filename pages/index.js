@@ -11,7 +11,7 @@ export async function getStaticProps() {
     props: {
       title: 'Bhautik Bavadiya',
       description: "But I'm better known by my nickname Yesbhautik!",
-      image: '/static/images/home-bw.jpg',
+      image: '/static/images/yesbhautik-new-green-small.png',
     },
   }
 }
