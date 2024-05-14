@@ -29,9 +29,9 @@ const categories = [
         url: 'https://amzn.to/40fPcl6',
       },
       {
-        title: 'Simple Chair',
+        title: 'Ergonomic  Chair',
         description: 'I sit all day, so I might as well get a good chair.',
-        url: 'https://store.hermanmiller.com/home-office-chairs/sayl-chair/2294.html',
+        url: '#',
       },
       {
         title: 'Tukzer Large Mouse Pad',
@@ -76,6 +76,11 @@ const categories = [
         description:
           "Performance could be better, but I enjoy using this since it's made with JavaScript.",
         url: 'https://hyper.is',
+      },
+      {
+        title: 'NuShell',
+        description: 'A new type of shell',
+        url: 'https://www.nushell.sh/',
       },
       {
         title: 'Oh My ZSH',
