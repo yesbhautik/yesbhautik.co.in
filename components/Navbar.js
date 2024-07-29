@@ -16,7 +16,8 @@ export default function Navbar() {
       <Header>
         <Link href="/" passHref>
           <ButtonLogo>
-            <img src="/static/images/yesbhautik-logo.png" alt="logo" />
+            
+            <img src="/static/images/yesbhautik-logo.svg" alt="logo" />
           </ButtonLogo>
         </Link>
 
