@@ -24,9 +24,9 @@ export default function Footer() {
       icon: 'ri-linkedin-line',
     },
     {
-      title: 'Instagram',
+      title: 'Links',
       url: 'https://instagram.com/yesbhautik',
-      icon: 'ri-instagram-line',
+      icon: 'ri-links-line',
     },
   ]
 
