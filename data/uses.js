@@ -8,6 +8,11 @@ const categories = [
         url: 'https://amzn.to/40dTJV0',
       },
       {
+        title: 'Logitech G502 HERO',
+        description: 'Customizable weights, multiple programmable buttons, continuous scrolling.',
+        url: 'https://amzn.to/49dbtEL',
+      },
+      {
         title: 'Logitech G402',
         description: 'Best mouse ever, with multiple programmable buttons',
         url: 'https://amzn.to/3SiLCob',
@@ -18,13 +23,13 @@ const categories = [
         url: 'https://amzn.to/3FzfVzy',
       },
       {
-        title: 'Logitech G512 Mechanical Keyboard [Blue]',
+        title: 'Logitech G512 Blue Mechanical Keyboard',
         description:
           'Nothing fancy over here, just a table that fits my office.',
         url: 'https://amzn.to/47aqRzy',
       },
       {
-        title: 'Cosmic Byte CB-GK-16 Keyboard [Blue]',
+        title: 'Cosmic Byte CB-GK-16 Blue Mechanical Keyboard',
         description: 'This is my backup mechanical keyboard.',
         url: 'https://amzn.to/40fPcl6',
       },
@@ -99,8 +104,13 @@ const categories = [
     name: 'Apps',
     items: [
       {
-        title: 'KeePassXC',
+        title: '1Password',
         description: 'The first thing I install on any new device.',
+        url: 'https://1password.com',
+      },
+      {
+        title: 'KeePassXC',
+        description: 'Best Open Source Password Manager.',
         url: 'https://keepassxc.org',
       },
       {
@@ -108,6 +118,11 @@ const categories = [
         description:
           'This is what I use whenever I need to share and/or highlight screenshots.',
         url: 'https://getsharex.com',
+      },
+      {
+        title: 'Directory Opus',
+        description: 'Kills frustration of Windows Explorer limitations.',
+        url: 'https://www.gpsoft.com.au/',
       },
       {
         title: 'PowerToys',
@@ -125,6 +140,16 @@ const categories = [
         description:
           'A must-have tool for non-native English speakers like me.',
         url: 'https://grammarly.com/',
+      },
+      {
+        title: 'Matrix & mautrix bridges',
+        description: 'Open Network decentralised communication.',
+        url: 'https://matrix.org/',
+      },
+      {
+        title: 'Element',
+        description: 'Best matrix client.',
+        url: 'https://matrix.org/',
       },
       {
         title: 'Mattermost',
@@ -148,13 +173,53 @@ const categories = [
       },
       {
         title: '1.1.1.1',
-        description: 'Fast. Free. Private.',
+        description: 'Fast. Free. Private. Proxy/VPN.',
         url: 'https://1.1.1.1/',
       },
       {
-        title: 'Ferdium',
-        description: 'All my communication services in one place',
+        title: 'Rambox',
+        description: 'Workspace simplifier.',
         url: 'https://ferdium.org/',
+      },
+      {
+        title: 'Arc Browser',
+        description: 'Best browser for developers.',
+        url: 'https://arc.net/',
+      },
+      {
+        title: 'WSL',
+        description: 'Windows Subsystem for Linux.',
+        url: 'https://docs.microsoft.com/en-us/windows/wsl/install',
+      },
+      {
+        title: 'Spotify',
+        description: 'I love music.',
+        url: 'https://spotify.com',
+      },
+      {
+        title: 'Voicemeeter',
+        description: 'Audio mixer, but I use it to get multiple audio outputs.',
+        url: 'https://voicemeeter.com/',
+      },
+      {
+        title: 'Espanso',
+        description: 'Spell check and auto-correct.',
+        url: 'https://espanso.org/',
+      },
+      {
+        title: 'Balena Etcher',
+        description: 'Flash OS images to SD cards & USB drives, safely and easily.',
+        url: 'https://www.balena.io/etcher/',
+      },
+      {
+        title: 'WebTorrent',
+        description: 'Streaming torrent client.',
+        url: 'https://webtorrent.io/',
+      },
+      {
+        title: 'Self-hosted Wireguard',
+        description: 'VPN over the internet.',
+        url: 'https://www.wireguard.com/',
       },
     ],
   },
@@ -178,7 +243,6 @@ const categories = [
         description: 'I buy and renew all my domains here.',
         url: 'https://namecheap.com/',
       },
-      ,
       {
         title: 'Infisical',
         description: 'An open-source secrets manager for developers.',
@@ -189,10 +253,26 @@ const categories = [
         description: 'Here is where I host all my websites.',
         url: 'https://yesbhautikx.co.in/',
       },
+            {
+        title: 'Amazon Web Services - AWS',
+        url: 'https://aws.amazon.com/',
+      },
+      {
+        title: 'Microsoft Azure & AI Studio',
+        url: 'https://azure.microsoft.com/',
+      },
+      {
+        title: 'Oracle Cloud',
+        url: 'https://www.oracle.com/cloud/',
+      },
+      {
+        title: 'OpenAI APIs',
+        url: 'https://openai.com/api/',
+      }
     ],
   },
   {
-    name: 'Screen Share | Record | Edit',
+    name: 'Screen Share | Record | Design | Edit',
     items: [
       {
         title: 'OBS',
@@ -205,6 +285,26 @@ const categories = [
         description: 'Accessing screen of colleagues and helping out.',
         url: 'https://anydesk.com/',
       },
+      {
+        title: 'RustDesk',
+        description: 'Open source virtual KVM software.',
+        url: 'https://rustdesk.com/',
+      },
+      {
+        title: 'Filmora',
+        description: 'Quick and easy video editor.',
+        url: 'https://filmora.wondershare.com/',
+      },
+      {
+        title: 'Canva',
+        description: 'Create stunning designs.',
+        url: 'https://canva.com/',
+      },
+      {
+        title: 'Adobe Suite',
+        description: 'I use Adobe Illustrator, after effects, premiere pro, and photoshop.',
+        url: 'https://adobe.com/',
+      },
     ],
   },
   {
@@ -215,6 +315,11 @@ const categories = [
         description:
           'By far the best headphones I ever had. Premium quality, solid build.',
         url: 'https://amzn.to/49cXFJS',
+      },
+      {
+        title: 'Redgear Cosmo 7.1 Surround Sound',
+        description: 'All rounder rough and tough headset.',
+        url: 'https://amzn.to/4gdr2yl',
       },
     ],
   },
@@ -228,11 +333,15 @@ const categories = [
         url: 'https://mint.com',
       },
       {
-        title: 'Coinbase',
+        title: 'Binance',
         description:
           "I'm not obsessed with crypto, but I still have some small investments there. My portfolio is made of ETH, BTC, SOL, DOGE, and SHIB.",
-        url: 'https://coinbase.com/join/rocha_12',
+        url: 'https://binance.com',
       },
+      {
+        title: 'pump.fun',
+        url: 'https://pump.fun/',
+      }
     ],
   },
 ]

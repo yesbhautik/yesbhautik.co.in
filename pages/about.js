@@ -17,7 +17,7 @@ export async function getStaticProps() {
   const meta = {
     title: 'About // Yesbhautik',
     description:
-      'Bhautik Bavadiya [Yesbhautik] is a Indian technologist & developer. He currently lives in Gujarat, India. Where he is the Founder and CEO at YesbhautikX. His lifelong appreciation for implementing new technologies and sharing the knowledge to world. He is always ready to contribute open-source & non-profit projects. Bhautik Bavadiya [Yesbhautik] developed multiple online platforms, mentored startups, and worked at many companies in India.',
+      'Bhautik Bavadiya [Yesbhautik] is a Indian entrepreneur & technologist. He currently lives in Gujarat, India. Where he is the Founder and CEO at YesbhautikX. His lifelong appreciation for implementing new technologies and sharing the knowledge to world. He is always ready to contribute open-source & non-profit projects. Bhautik Bavadiya [Yesbhautik] developed multiple online platforms, mentored startups, and worked with many companies for Business Development & tech growth.',
     tagline: 'Learn. Share. Grow.',
     image: '/static/images/about-bw.jpg',
     primaryColor: 'pink',

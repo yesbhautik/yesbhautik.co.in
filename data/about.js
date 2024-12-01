@@ -6,12 +6,27 @@ const items = [
     startDate: '2021-09-01',
     location: 'Gujarat, India',
   },
+    {
+    jobTitle: 'Business Development',
+    company: 'StrawHat Labs',
+    companyUrl: 'https://yesbhautikx.co.in',
+    startDate: '2024-08',
+    location: 'Bengaluru, India',
+  },
   {
-    jobTitle: 'Founder and MD',
+    jobTitle: 'Founder and CEO',
     company: 'Yesbhautik Tech Services Pvt Ltd [Youareunique]',
     companyUrl: 'https://yesbhautikx.co.in',
     startDate: '2021-09-01',
     endDate: '2023-06-01',
+    location: 'Gujarat, India',
+  },
+    {
+    jobTitle: 'Professional Freelancer',
+    company: 'Freelancer ',
+    companyUrl: '#',
+    startDate: '2018-02',
+    endDate: '2023-01',
     location: 'Gujarat, India',
   },
   {
