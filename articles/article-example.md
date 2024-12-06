@@ -1,6 +1,6 @@
 ---
-title: "Example Article"
-description: "This is an example article."
+title: "Migration under Process"
+description: "All project currently under migration, this section will be updated soon."
 image: /static/img/posts/cow.jpg
 slug: article-example
 lang: en-US
