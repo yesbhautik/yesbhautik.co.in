@@ -1,8 +1,9 @@
 import { styled } from '../stitches.config'
 import { Box } from './Box'
 import Toast from './Toast'
-import { useRef, useState, forwardRef } from 'react'
+import { useRef, useState, forwardRef, useEffect } from 'react'
 import { useRouter } from 'next/router'
+import dynamic from 'next/dynamic'
 import {
   KBarAnimator,
   KBarProvider,
@@ -12,7 +13,8 @@ import {
   KBarSearch,
   KBarResults,
 } from 'kbar'
-import Lottie from 'lottie-react'
+// Import Lottie dynamically with SSR disabled
+const Lottie = dynamic(() => import('lottie-react'), { ssr: false })
 import copyLinkIcon from '../public/static/icons/copy-link.json'
 import emailIcon from '../public/static/icons/email.json'
 import sourceIcon from '../public/static/icons/source.json'
