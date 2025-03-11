@@ -41,7 +41,7 @@ export default function Footer() {
     }
 
     return (
-      <Link key={index} href={link.url} passHref>
+      <Link key={index} href={link.url} passHref legacyBehavior>
         <Anchor>
           <Title>{link.title}</Title>
           <Icon className={link.icon} />

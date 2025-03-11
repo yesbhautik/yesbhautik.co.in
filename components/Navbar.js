@@ -14,9 +14,8 @@ export default function Navbar() {
   return (
     <AnimateSharedLayout>
       <Header>
-        <Link href="/" passHref>
+        <Link href="/" passHref legacyBehavior>
           <ButtonLogo>
-            
             <img src="/static/images/yesbhautik-logo.svg" alt="logo" />
           </ButtonLogo>
         </Link>
@@ -29,7 +28,7 @@ export default function Navbar() {
 
               return (
                 <li key={page}>
-                  <Link href={path} passHref>
+                  <Link href={path} passHref legacyBehavior>
                     <Anchor>
                       <NavContainer
                         onHoverStart={() => setHovered(page)}
