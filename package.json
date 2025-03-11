@@ -7,7 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "lint": "next lint",
-    "export": "next export",
+    "postinstall": "next telemetry disable",
     "deploy": "vercel --prod"
   },
   "dependencies": {
@@ -38,5 +38,14 @@
     "eslint": "^8.9.0",
     "eslint-config-next": "^14.2.15",
     "eslint-config-prettier": "^8.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=10.0.0"
+  },
+  "resolutions": {
+    "next": "^14.2.15",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
