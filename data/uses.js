@@ -29,7 +29,6 @@ const categories = [
       },
       {
         title: 'Samsung 27 Inch Monitor ',
-        description: 'Actually size matters.',
         url: 'https://amzn.to/3FzfVzy',
       },
       {
