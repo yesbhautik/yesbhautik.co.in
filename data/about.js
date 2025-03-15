@@ -1,16 +1,17 @@
 const items = [
   {
     jobTitle: 'Founder & CEO',
-    company: 'YesbhautikX',
-    companyUrl: 'https://yesbhautikx.co.in',
+    company: 'YesbhautikX & FlavorAI',
+    companyUrl: 'https://links.yesbhautik.co.in/',
     startDate: '2021-09-01',
     location: 'Gujarat, India',
   },
     {
-    jobTitle: 'Business Development',
+    jobTitle: 'Tech BDE',
     company: 'StrawHat Labs',
-    companyUrl: 'https://yesbhautikx.co.in',
+    companyUrl: '#',
     startDate: '2024-08',
+    endDate: '2024-12',
     location: 'Bengaluru, India',
   },
   {

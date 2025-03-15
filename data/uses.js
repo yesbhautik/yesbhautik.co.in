@@ -3,8 +3,13 @@ const categories = [
     name: 'Desk',
     items: [
       {
+        title: 'Macbook Pro 14"',
+        description: 'Just love it. M4 pro 14 core CPU, 20 core GPU, 48 GB RAM, 3 TB SSD.',
+        url: 'https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-black-standard-display-apple-m4-pro-with-14-core-cpu-and-20-core-gpu-24gb-memory-1tb',
+      },
+      {
         title: 'Asus TUF F15 (15", 2021)',
-        description: 'The TUF is just amazing. Plus, 16 GB RAM and 2TB SSD.',
+        description: 'The TUF is just amazing. Plus, 16 GB RAM.',
         url: 'https://amzn.to/40dTJV0',
       },
       {
@@ -14,8 +19,13 @@ const categories = [
       },
       {
         title: 'Logitech G402',
-        description: 'Best mouse ever, with multiple programmable buttons',
+        description: 'Backup mouse.',
         url: 'https://amzn.to/3SiLCob',
+      },
+      {
+        title: 'Dell UltraSharp 40 Curved Thunderbolt™ Hub Monitor - U4025QW',
+        description: 'Actually size matters.',
+        url: 'https://www.dell.com/en-in/shop/dell-ultrasharp-40-curved-thunderbolt-hub-monitor-u4025qw/apd/210-bmcx/monitors-monitor-accessories?_gl=1*1bkhei*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiAlbW-BhCMARIsADnwasoFWOIo4G0Cogkq9r5_THSF4xxQ55REqlSz17usbvgHb_B6IkiGJ-oaAt3mEALw_wcB&gclsrc=aw.ds',
       },
       {
         title: 'Samsung 27 Inch Monitor ',
@@ -30,8 +40,18 @@ const categories = [
       },
       {
         title: 'Cosmic Byte CB-GK-16 Blue Mechanical Keyboard',
-        description: 'This is my backup mechanical keyboard.',
+        description: 'Backup keyboard.',
         url: 'https://amzn.to/40fPcl6',
+      },
+      {
+        title: 'Shure MV7+',
+        description: 'My first choice for smoothness.',
+        url: 'https://amzn.to/41yhVmp',
+      },
+      {
+        title: 'Echo Dot',
+        description: 'Average speaker, not recommended.',
+        url: 'https://amzn.to/3tOO7EF',
       },
       {
         title: 'Ergonomic  Chair',
@@ -42,11 +62,6 @@ const categories = [
         title: 'Tukzer Large Mouse Pad',
         description: 'Smooth tasks with smooth flows.',
         url: 'https://amzn.to/45T0QDw',
-      },
-      {
-        title: 'Echo Dot',
-        description: 'I love to listening music.',
-        url: 'https://amzn.to/3tOO7EF',
       },
     ],
   },
@@ -110,23 +125,23 @@ const categories = [
       },
       {
         title: 'KeePassXC',
-        description: 'Best Open Source Password Manager.',
+        description: 'Best Open Source Password Manager (I was using it before 1Password), must recommend if you don\'t want to spend money on premium password managers.',
         url: 'https://keepassxc.org',
       },
       {
         title: 'ShareX',
         description:
-          'This is what I use whenever I need to share and/or highlight screenshots.',
+          'This is what I use whenever I need to share and/or highlight screenshots (for Windows).',
         url: 'https://getsharex.com',
       },
       {
         title: 'Directory Opus',
-        description: 'Kills frustration of Windows Explorer limitations.',
+        description: 'Kills frustration of Windows Explorer limitations (for Windows).',
         url: 'https://www.gpsoft.com.au/',
       },
       {
         title: 'PowerToys',
-        description: 'Extra cheese on WinOS',
+        description: 'Extra cheese on Windows.',
         url: 'https://github.com/microsoft/PowerToys',
       },
       {
@@ -147,9 +162,9 @@ const categories = [
         url: 'https://matrix.org/',
       },
       {
-        title: 'Element',
-        description: 'Best matrix client.',
-        url: 'https://matrix.org/',
+        title: 'Beeper',
+        description: 'All chats in one app.',
+        url: 'https://beeper.com/',
       },
       {
         title: 'Mattermost',
@@ -182,9 +197,9 @@ const categories = [
         url: 'https://ferdium.org/',
       },
       {
-        title: 'Arc Browser',
-        description: 'Best browser for developers.',
-        url: 'https://arc.net/',
+        title: 'Zen Browser',
+        description: 'Best browser ever.',
+        url: 'https://zen-browser.app/',
       },
       {
         title: 'WSL',
@@ -198,12 +213,12 @@ const categories = [
       },
       {
         title: 'Voicemeeter',
-        description: 'Audio mixer, but I use it to get multiple audio outputs.',
+        description: 'Audio mixer, but I use it to get multiple audio outputs (for Windows).',
         url: 'https://voicemeeter.com/',
       },
       {
         title: 'Espanso',
-        description: 'Spell check and auto-correct.',
+        description: 'It make keyboard more then just a keyboard.',
         url: 'https://espanso.org/',
       },
       {
@@ -281,11 +296,6 @@ const categories = [
         url: 'https://obsproject.com/',
       },
       {
-        title: 'AnyDESK',
-        description: 'Accessing screen of colleagues and helping out.',
-        url: 'https://anydesk.com/',
-      },
-      {
         title: 'RustDesk',
         description: 'Open source virtual KVM software.',
         url: 'https://rustdesk.com/',
@@ -327,15 +337,13 @@ const categories = [
     name: 'Finance',
     items: [
       {
-        title: 'Mint',
+        title: 'Gmgn',
         description:
-          'All my accounts are connected in one place, so I can see a big picture of everything.',
-        url: 'https://mint.com',
+          'Good night sleep, good morning money.',
+        url: 'https://gmgn.ai/',
       },
       {
         title: 'Binance',
-        description:
-          "I'm not obsessed with crypto, but I still have some small investments there. My portfolio is made of ETH, BTC, SOL, DOGE, and SHIB.",
         url: 'https://binance.com',
       },
       {
