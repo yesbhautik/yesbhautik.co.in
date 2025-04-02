@@ -53,6 +53,10 @@ const categories = [
         url: 'https://rode.com/en/accessories/stands-bars/psa1',
       },
       {
+        title: 'Airpods PRO 2',
+        url: 'https://www.apple.com/airpods-pro/',
+      },
+      {
         title: 'Echo Dot',
         description: 'Average speaker, not recommended.',
         url: 'https://amzn.to/3tOO7EF',
