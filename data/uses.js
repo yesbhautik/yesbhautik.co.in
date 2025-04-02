@@ -48,6 +48,11 @@ const categories = [
         url: 'https://amzn.to/41yhVmp',
       },
       {
+        title: 'RODE PSA1 arm',
+        description: 'Keep quiet on motion.',
+        url: 'https://rode.com/en/accessories/stands-bars/psa1',
+      },
+      {
         title: 'Echo Dot',
         description: 'Average speaker, not recommended.',
         url: 'https://amzn.to/3tOO7EF',
