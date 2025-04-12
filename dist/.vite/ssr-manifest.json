@@ -1,0 +1,1517 @@
+{
+  "\u0000/Users/yesbhautik/DATA/Projects/GitHub/gold/node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/dayjs.min.js?commonjs-es-import": [],
+  "\u0000/Users/yesbhautik/DATA/Projects/GitHub/gold/node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/dayjs.min.js?commonjs-module": [],
+  "\u0000/Users/yesbhautik/DATA/Projects/GitHub/gold/node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/plugin/localizedFormat.js?commonjs-es-import": [],
+  "\u0000/Users/yesbhautik/DATA/Projects/GitHub/gold/node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/plugin/localizedFormat.js?commonjs-module": [],
+  "\u0000/Users/yesbhautik/DATA/Projects/GitHub/gold/node_modules/.pnpm/earcut@2.2.4/node_modules/earcut/src/earcut.js?commonjs-es-import": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "\u0000/Users/yesbhautik/DATA/Projects/GitHub/gold/node_modules/.pnpm/earcut@2.2.4/node_modules/earcut/src/earcut.js?commonjs-module": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "\u0000/Users/yesbhautik/DATA/Projects/GitHub/gold/node_modules/.pnpm/eventemitter3@5.0.1/node_modules/eventemitter3/index.js?commonjs-es-import": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "\u0000/Users/yesbhautik/DATA/Projects/GitHub/gold/node_modules/.pnpm/eventemitter3@5.0.1/node_modules/eventemitter3/index.js?commonjs-module": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "\u0000/Users/yesbhautik/DATA/Projects/GitHub/gold/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-es-import": [],
+  "\u0000/Users/yesbhautik/DATA/Projects/GitHub/gold/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [],
+  "\u0000/Users/yesbhautik/DATA/Projects/GitHub/gold/node_modules/.pnpm/parse-svg-path@0.1.2/node_modules/parse-svg-path/index.js?commonjs-es-import": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "\u0000commonjsHelpers.js": [],
+  "\u0000plugin-vue:export-helper": [],
+  "\u0000vite/modulepreload-polyfill.js": [],
+  "\u0000vite/preload-helper.js": [],
+  "../../../../../../__uno.css": [],
+  "../../../../../../__vue-router/auto-routes": [],
+  "../../../../../../sign.svg": [],
+  "assets/app-!~{001}~.js-unocss-hash.css": [],
+  "data/media.ts": [
+    "/assets/media-CMzwngOX.js"
+  ],
+  "data/talks.ts": [
+    "/assets/talks-Bi-aY211.js"
+  ],
+  "demo/2021-01-12.md": [
+    "/assets/demos-B6oTnRej.js",
+    "/assets/2021-01-12-DnAwi2Ja.mp4"
+  ],
+  "demo/2021-01-12.mp4?url": [
+    "/assets/demos-B6oTnRej.js",
+    "/assets/2021-01-12-DnAwi2Ja.mp4"
+  ],
+  "demo/data.ts": [
+    "/assets/demos-B6oTnRej.js",
+    "/assets/2021-01-12-DnAwi2Ja.mp4"
+  ],
+  "index.html": [],
+  "node_modules/.pnpm/@floating-ui+core@1.3.1/node_modules/@floating-ui/core/dist/floating-ui.core.browser.min.mjs": [],
+  "node_modules/.pnpm/@floating-ui+dom@1.1.1/node_modules/@floating-ui/dom/dist/floating-ui.dom.browser.min.mjs": [],
+  "node_modules/.pnpm/@pixi+colord@2.9.6/node_modules/@pixi/colord/index.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/@pixi+colord@2.9.6/node_modules/@pixi/colord/plugins/names.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/@shikijs+twoslash@3.2.1_typescript@5.8.2/node_modules/@shikijs/twoslash/style-rich.css": [],
+  "node_modules/.pnpm/@unhead+vue@2.0.3_vue@3.5.13_typescript@5.8.2_/node_modules/@unhead/vue/dist/client.mjs": [],
+  "node_modules/.pnpm/@unhead+vue@2.0.3_vue@3.5.13_typescript@5.8.2_/node_modules/@unhead/vue/dist/shared/vue.BYLJNEcq.mjs": [],
+  "node_modules/.pnpm/@unhead+vue@2.0.3_vue@3.5.13_typescript@5.8.2_/node_modules/@unhead/vue/dist/shared/vue.N9zWjxoK.mjs": [],
+  "node_modules/.pnpm/@unocss+reset@66.0.0/node_modules/@unocss/reset/tailwind.css": [],
+  "node_modules/.pnpm/@vue+reactivity@3.5.13/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+runtime-core@3.5.13/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+runtime-dom@3.5.13/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+shared@3.5.13/node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/.pnpm/@vueuse+core@13.0.0_vue@3.5.13_typescript@5.8.2_/node_modules/@vueuse/core/index.mjs": [],
+  "node_modules/.pnpm/@vueuse+shared@13.0.0_vue@3.5.13_typescript@5.8.2_/node_modules/@vueuse/shared/index.mjs": [],
+  "node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/dayjs.min.js": [],
+  "node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/plugin/localizedFormat.js": [],
+  "node_modules/.pnpm/earcut@2.2.4/node_modules/earcut/src/earcut.js": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/eventemitter3@5.0.1/node_modules/eventemitter3/index.js": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/floating-vue@5.2.2_vue@3.5.13_typescript@5.8.2_/node_modules/floating-vue/dist/floating-vue.mjs": [],
+  "node_modules/.pnpm/floating-vue@5.2.2_vue@3.5.13_typescript@5.8.2_/node_modules/floating-vue/dist/style.css": [],
+  "node_modules/.pnpm/hookable@5.5.3/node_modules/hookable/dist/index.mjs": [],
+  "node_modules/.pnpm/ismobilejs@1.1.1/node_modules/ismobilejs/esm/isMobile.js": [
+    "/assets/browserAll-BnHo7jJY.js"
+  ],
+  "node_modules/.pnpm/markdown-it-github-alerts@1.0.0_markdown-it@14.1.0/node_modules/markdown-it-github-alerts/styles/github-base.css": [],
+  "node_modules/.pnpm/markdown-it-github-alerts@1.0.0_markdown-it@14.1.0/node_modules/markdown-it-github-alerts/styles/github-colors-dark-class.css": [],
+  "node_modules/.pnpm/markdown-it-github-alerts@1.0.0_markdown-it@14.1.0/node_modules/markdown-it-github-alerts/styles/github-colors-light.css": [],
+  "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [],
+  "node_modules/.pnpm/parse-svg-path@0.1.2/node_modules/parse-svg-path/index.js": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pinia@3.0.1_typescript@5.8.2_vue@3.5.13_typescript@5.8.2_/node_modules/pinia/dist/pinia.mjs": [],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/accessibility/AccessibilitySystem.mjs": [
+    "/assets/browserAll-BnHo7jJY.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/accessibility/accessibilityTarget.mjs": [
+    "/assets/browserAll-BnHo7jJY.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/accessibility/init.mjs": [
+    "/assets/browserAll-BnHo7jJY.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/app/Application.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/app/ResizePlugin.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/app/TickerPlugin.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/app/init.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/assets/cache/Cache.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/assets/loader/parsers/LoaderParser.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/assets/resolver/Resolver.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/assets/utils/convertToList.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/assets/utils/copySearchParams.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/assets/utils/createStringVariations.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/assets/utils/isSingleItem.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/color/Color.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/culling/cullingMixin.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/dom/DOMPipe.mjs": [
+    "/assets/browserAll-BnHo7jJY.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/dom/init.mjs": [
+    "/assets/browserAll-BnHo7jJY.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/environment-browser/BrowserAdapter.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/environment-browser/browserAll.mjs": [
+    "/assets/browserAll-BnHo7jJY.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/environment-browser/browserExt.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/environment-webworker/webworkerAll.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/environment-webworker/webworkerExt.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/environment/adapter.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/environment/autoDetectEnvironment.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/events/EventBoundary.mjs": [
+    "/assets/browserAll-BnHo7jJY.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/events/EventSystem.mjs": [
+    "/assets/browserAll-BnHo7jJY.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/events/EventTicker.mjs": [
+    "/assets/browserAll-BnHo7jJY.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/events/FederatedEvent.mjs": [
+    "/assets/browserAll-BnHo7jJY.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/events/FederatedEventTarget.mjs": [
+    "/assets/browserAll-BnHo7jJY.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/events/FederatedMouseEvent.mjs": [
+    "/assets/browserAll-BnHo7jJY.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/events/FederatedPointerEvent.mjs": [
+    "/assets/browserAll-BnHo7jJY.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/events/FederatedWheelEvent.mjs": [
+    "/assets/browserAll-BnHo7jJY.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/events/init.mjs": [
+    "/assets/browserAll-BnHo7jJY.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/extensions/Extensions.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/filters/Filter.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/filters/FilterEffect.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/filters/FilterPipe.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/filters/FilterSystem.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/filters/init.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/filters/mask/MaskFilter.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/filters/mask/mask.frag.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/filters/mask/mask.vert.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/filters/mask/mask.wgsl.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/index.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/maths/matrix/Matrix.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/maths/matrix/groupD8.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/maths/misc/const.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/maths/misc/pow2.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/maths/misc/squaredDistanceToLineSegment.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/maths/point/ObservablePoint.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/maths/point/Point.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/maths/shapes/Circle.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/maths/shapes/Ellipse.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/maths/shapes/Polygon.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/maths/shapes/Rectangle.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/maths/shapes/RoundedRectangle.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/batcher/gl/GlBatchAdaptor.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/batcher/gl/utils/checkMaxIfStatementsInShader.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/batcher/gl/utils/maxRecommendedTextures.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/batcher/gpu/GpuBatchAdaptor.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/batcher/gpu/getTextureBatchBindGroup.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/batcher/shared/BatchGeometry.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/batcher/shared/BatchTextureArray.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/batcher/shared/Batcher.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/batcher/shared/BatcherPipe.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/batcher/shared/DefaultBatcher.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/batcher/shared/DefaultShader.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/high-shader/compileHighShaderToProgram.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/high-shader/compiler/compileHighShader.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/high-shader/compiler/utils/addBits.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/high-shader/compiler/utils/compileHooks.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/high-shader/compiler/utils/compileInputs.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/high-shader/compiler/utils/compileOutputs.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/high-shader/compiler/utils/injectBits.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/high-shader/defaultProgramTemplate.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/high-shader/shader-bits/colorBit.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/high-shader/shader-bits/generateTextureBatchBit.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/high-shader/shader-bits/globalUniformsBit.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/high-shader/shader-bits/localUniformBit.mjs": [
+    "/assets/colorToUniform-C2GHuDhf.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/high-shader/shader-bits/roundPixelsBit.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/high-shader/shader-bits/textureBit.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/init.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/mask/MaskEffectManager.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/mask/alpha/AlphaMask.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/mask/alpha/AlphaMaskPipe.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/mask/color/ColorMask.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/mask/color/ColorMaskPipe.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/mask/stencil/StencilMask.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/mask/stencil/StencilMaskPipe.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/mask/utils/addMaskBounds.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/mask/utils/addMaskLocalBounds.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/autoDetectRenderer.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/GlBackBufferSystem.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/GlColorMaskSystem.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/GlEncoderSystem.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/GlRenderTarget.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/GlStencilSystem.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/GlUboSystem.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/WebGLRenderer.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/buffer/GlBuffer.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/buffer/GlBufferSystem.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/buffer/const.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/const.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/context/GlContextSystem.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/geometry/GlGeometrySystem.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/geometry/utils/getGlTypeFromFormat.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/renderTarget/GlRenderTargetAdaptor.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/renderTarget/GlRenderTargetSystem.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/GenerateShaderSyncCode.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/GlProgram.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/GlProgramData.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/GlShaderSystem.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/GlUniformGroupSystem.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/getBatchSamplersUniformGroup.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/compileShader.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/defaultValue.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/ensureAttributes.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/extractAttributesFromGlProgram.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/generateProgram.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/getMaxFragmentPrecision.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/getTestContext.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/getUboData.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/getUniformData.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/logProgramError.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/mapType.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/preprocessors/addProgramDefines.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/preprocessors/ensurePrecision.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/preprocessors/insertVersion.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/preprocessors/setProgramName.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/program/preprocessors/stripVersion.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/utils/createUboElementsSTD40.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/utils/createUboSyncSTD40.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/utils/generateArraySyncSTD40.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/utils/generateUniformsSync.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/shader/utils/generateUniformsSyncTypes.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/state/GlStateSystem.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/state/mapWebGLBlendModesToPixi.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/texture/GlTexture.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/texture/GlTextureSystem.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/texture/const.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/texture/uploaders/glUploadBufferImageResource.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/texture/uploaders/glUploadCompressedTextureResource.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/texture/uploaders/glUploadImageResource.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/texture/uploaders/glUploadVideoResource.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/texture/utils/applyStyleParams.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/texture/utils/mapFormatToGlFormat.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/texture/utils/mapFormatToGlInternalFormat.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/texture/utils/mapFormatToGlType.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gl/texture/utils/pixiToGlMaps.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/BindGroupSystem.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/GpuColorMaskSystem.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/GpuDeviceSystem.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/GpuEncoderSystem.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/GpuStencilSystem.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/GpuUboSystem.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/GpuUniformBatchPipe.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/WebGPURenderer.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/buffer/GpuBufferSystem.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/buffer/UboBatch.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/pipeline/PipelineSystem.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/renderTarget/GpuRenderTarget.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/renderTarget/GpuRenderTargetAdaptor.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/renderTarget/GpuRenderTargetSystem.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/renderTarget/calculateProjection.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/shader/BindGroup.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/shader/GpuProgram.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/shader/GpuShaderSystem.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/shader/utils/createUboElementsWGSL.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/shader/utils/createUboSyncFunctionWGSL.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/shader/utils/extractAttributesFromGpuProgram.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/shader/utils/extractStructAndGroups.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/shader/utils/generateArraySyncWGSL.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/shader/utils/generateGpuLayoutGroups.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/shader/utils/generateLayoutHash.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/shader/utils/removeStructAndGroupDuplicates.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/state/GpuBlendModesToPixi.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/state/GpuStateSystem.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/state/GpuStencilModesToPixi.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/texture/GpuTextureSystem.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/texture/uploaders/gpuUploadBufferImageResource.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/texture/uploaders/gpuUploadCompressedTextureResource.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/texture/uploaders/gpuUploadImageSource.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/texture/uploaders/gpuUploadVideoSource.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/gpu/texture/utils/GpuMipmapGenerator.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/SchedulerSystem.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/background/BackgroundSystem.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/blendModes/BlendModePipe.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/buffer/Buffer.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/buffer/BufferResource.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/buffer/const.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/buffer/utils/fastCopy.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/extract/ExtractSystem.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/extract/GenerateTextureSystem.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/geometry/Geometry.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/geometry/utils/buildUvs.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/geometry/utils/ensureIsBuffer.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/geometry/utils/getAttributeInfoFromFormat.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/geometry/utils/getGeometryBounds.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/geometry/utils/transformVertices.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/instructions/InstructionSet.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/renderTarget/GlobalUniformSystem.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/renderTarget/RenderTarget.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/renderTarget/RenderTargetSystem.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/renderTarget/isRenderingToScreen.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/shader/Shader.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/shader/UboSystem.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/shader/UniformGroup.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/shader/const.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/shader/types.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/shader/utils/createUboSyncFunction.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/shader/utils/getDefaultUniformValue.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/shader/utils/uboSyncFunctions.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/shader/utils/uniformParsers.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/startup/HelloSystem.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/state/State.mjs": [
+    "/assets/colorToUniform-C2GHuDhf.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/state/const.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/state/getAdjustedBlendModeBlend.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/system/AbstractRenderer.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/system/SharedSystems.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/system/SystemRunner.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/texture/CanvasPool.mjs": [
+    "/assets/CanvasPool-yLf4X7Rl.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/texture/RenderTexture.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/texture/RenderableGCSystem.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/texture/Texture.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/texture/TextureGCSystem.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/texture/TextureMatrix.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/texture/TexturePool.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/texture/TextureStyle.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/texture/sources/BufferImageSource.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/texture/sources/CanvasSource.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/texture/sources/ImageSource.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/texture/sources/TextureSource.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/texture/sources/VideoSource.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/texture/utils/getCanvasTexture.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/texture/utils/textureFrom.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/utils/createIdFromString.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/shared/view/ViewSystem.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/rendering/renderers/types.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/Container.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/CustomRenderPipe.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/RenderGroup.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/RenderGroupPipe.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/RenderGroupSystem.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/bounds/Bounds.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/bounds/getGlobalBounds.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/bounds/getLocalBounds.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/bounds/getRenderableBounds.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/bounds/utils/matrixAndBoundsPool.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/container-mixins/cacheAsTextureMixin.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/container-mixins/childrenHelperMixin.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/container-mixins/collectRenderablesMixin.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/container-mixins/effectsMixin.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/container-mixins/findMixin.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/container-mixins/getFastGlobalBoundsMixin.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/container-mixins/getGlobalMixin.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/container-mixins/measureMixin.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/container-mixins/onRenderMixin.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/container-mixins/sortMixin.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/container-mixins/toLocalGlobalMixin.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/utils/assignWithIgnore.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/utils/checkChildrenDidChange.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/utils/clearList.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/utils/definedProps.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/utils/executeInstructions.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/utils/multiplyColors.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/utils/multiplyHexColors.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/utils/updateRenderGroupTransforms.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/container/utils/validateRenderables.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/gl/GlGraphicsAdaptor.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/gpu/GpuGraphicsAdaptor.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/gpu/colorToUniform.mjs": [
+    "/assets/colorToUniform-C2GHuDhf.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/init.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/BatchableGraphics.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/Graphics.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/GraphicsContext.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/GraphicsContextSystem.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/GraphicsPipe.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/buildCommands/buildAdaptiveBezier.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/buildCommands/buildAdaptiveQuadratic.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/buildCommands/buildArc.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/buildCommands/buildArcTo.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/buildCommands/buildArcToSvg.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/buildCommands/buildCircle.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/buildCommands/buildLine.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/buildCommands/buildPixelLine.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/buildCommands/buildPolygon.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/buildCommands/buildRectangle.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/buildCommands/buildTriangle.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/const.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/fill/FillGradient.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/fill/FillPattern.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/path/GraphicsPath.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/path/ShapePath.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/path/roundShape.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/svg/SVGParser.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/svg/parseSVGDefinitions.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/svg/parseSVGFloatAttribute.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/svg/parseSVGPath.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/svg/parseSVGStyle.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/svg/utils/extractSvgUrlId.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/utils/buildContextBatches.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/utils/convertFillInputToFillStyle.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/utils/generateTextureFillMatrix.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/utils/getOrientationOfPoints.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/graphics/shared/utils/triangulateWithHoles.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/mesh-plane/PlaneGeometry.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/mesh/gl/GlMeshAdaptor.mjs": [
+    "/assets/WebGLRenderer-CgJnatTu.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/mesh/gpu/GpuMeshAdapter.mjs": [
+    "/assets/WebGPURenderer-DdJcQ6xW.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/mesh/init.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/mesh/shared/BatchableMesh.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/mesh/shared/MeshGeometry.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/mesh/shared/MeshPipe.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/particle-container/gl/GlParticleContainerAdaptor.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/particle-container/gpu/GpuParticleContainerAdaptor.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/particle-container/init.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/particle-container/shared/GlParticleContainerPipe.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/particle-container/shared/GpuParticleContainerPipe.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/particle-container/shared/Particle.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/particle-container/shared/ParticleBuffer.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/particle-container/shared/ParticleContainer.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/particle-container/shared/ParticleContainerPipe.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/particle-container/shared/particleData.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/particle-container/shared/shader/ParticleShader.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/particle-container/shared/shader/particles.frag.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/particle-container/shared/shader/particles.vert.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/particle-container/shared/shader/particles.wgsl.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/particle-container/shared/utils/createIndicesForQuads.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/particle-container/shared/utils/generateParticleUpdateFunction.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/sprite-nine-slice/NineSliceGeometry.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/sprite-nine-slice/NineSliceSpritePipe.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/sprite-nine-slice/init.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/sprite-tiling/TilingSpritePipe.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/sprite-tiling/init.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/sprite-tiling/shader/TilingSpriteShader.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/sprite-tiling/shader/tilingBit.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/sprite-tiling/utils/QuadGeometry.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/sprite-tiling/utils/applyMatrix.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/sprite-tiling/utils/setPositions.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/sprite-tiling/utils/setUvs.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/sprite/BatchableSprite.mjs": [
+    "/assets/colorToUniform-C2GHuDhf.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/sprite/Sprite.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/sprite/SpritePipe.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-bitmap/AbstractBitmapFont.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-bitmap/BitmapFontManager.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-bitmap/BitmapTextPipe.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-bitmap/DynamicBitmapFont.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-bitmap/init.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-bitmap/utils/getBitmapTextLayout.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-bitmap/utils/resolveCharacters.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-html/HTMLTextPipe.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-html/HTMLTextRenderData.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-html/HTMLTextStyle.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-html/HTMLTextSystem.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-html/init.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-html/utils/extractFontFamilies.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-html/utils/getFontCss.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-html/utils/getSVGUrl.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-html/utils/getTemporaryCanvasFromImage.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-html/utils/loadFontAsBase64.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-html/utils/loadFontCSS.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-html/utils/loadSVGImage.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-html/utils/measureHtmlText.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text-html/utils/textStyleToCSS.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text/TextStyle.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text/canvas/CanvasTextMetrics.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text/canvas/CanvasTextPipe.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text/canvas/CanvasTextSystem.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text/canvas/utils/fontStringFromTextStyle.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text/canvas/utils/getCanvasFillStyle.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text/init.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text/sdfShader/SdfShader.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text/sdfShader/shader-bits/localUniformMSDFBit.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text/sdfShader/shader-bits/mSDFBit.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text/utils/generateTextStyleKey.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text/utils/getPo2TextureFromSource.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/text/utils/updateTextBounds.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/scene/view/ViewContainer.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/spritesheet/Spritesheet.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/spritesheet/init.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/spritesheet/spritesheetAsset.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/ticker/Ticker.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/ticker/TickerListener.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/ticker/const.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/browser/detectVideoAlphaMode.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/browser/isMobile.mjs": [
+    "/assets/browserAll-BnHo7jJY.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/browser/isSafari.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/browser/isWebGLSupported.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/browser/isWebGPUSupported.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/browser/unsafeEvalSupported.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/canvas/getCanvasBoundingBox.mjs": [
+    "/assets/webworkerAll-BB298gvB.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/const.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/data/ViewableBuffer.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/data/clean.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/data/removeItems.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/data/uid.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/data/updateQuadBounds.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/global/globalHooks.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/logging/deprecation.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/logging/warn.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/misc/NOOP.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/path.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/pool/Pool.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/pool/PoolGroup.mjs": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/pixi.js@8.9.1/node_modules/pixi.js/lib/utils/sayHello.mjs": [
+    "/assets/SharedSystems-BzXUBxkE.js"
+  ],
+  "node_modules/.pnpm/shiki-magic-move@1.1.0_shiki@3.2.1_vue@3.5.13_typescript@5.8.2_/node_modules/shiki-magic-move/dist/style.css": [],
+  "node_modules/.pnpm/simplex-noise@4.0.3/node_modules/simplex-noise/dist/esm/simplex-noise.js": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "node_modules/.pnpm/unhead@2.0.3/node_modules/unhead/dist/client.mjs": [],
+  "node_modules/.pnpm/unhead@2.0.3/node_modules/unhead/dist/shared/unhead.Cp0iF6eN.mjs": [],
+  "node_modules/.pnpm/unhead@2.0.3/node_modules/unhead/dist/shared/unhead.DGkFBTYv.mjs": [],
+  "node_modules/.pnpm/unhead@2.0.3/node_modules/unhead/dist/shared/unhead.DZbvapt-.mjs": [],
+  "node_modules/.pnpm/unhead@2.0.3/node_modules/unhead/dist/shared/unhead.yem5I2v_.mjs": [],
+  "node_modules/.pnpm/vite-ssg@26.1.1_prettier@3.4.2_unhead@2.0.3_vite@6.2.4_@types+node@22.13.17_jiti@2.4.2__1341b6dd0011ae36a0b4a9608df0271a/node_modules/vite-ssg/dist/index.mjs": [],
+  "node_modules/.pnpm/vite-ssg@26.1.1_prettier@3.4.2_unhead@2.0.3_vite@6.2.4_@types+node@22.13.17_jiti@2.4.2__1341b6dd0011ae36a0b4a9608df0271a/node_modules/vite-ssg/dist/shared/vite-ssg.C6pK7rvr.mjs": [],
+  "node_modules/.pnpm/vite-ssg@26.1.1_prettier@3.4.2_unhead@2.0.3_vite@6.2.4_@types+node@22.13.17_jiti@2.4.2__1341b6dd0011ae36a0b4a9608df0271a/node_modules/vite-ssg/dist/shared/vite-ssg.ETIvV-80.mjs": [],
+  "node_modules/.pnpm/vue-router-better-scroller@0.0.0_vue-router@4.5.0_vue@3.5.13_typescript@5.8.2___vue@3.5.13_typescript@5.8.2_/node_modules/vue-router-better-scroller/dist/index.mjs": [],
+  "node_modules/.pnpm/vue-router@4.5.0_vue@3.5.13_typescript@5.8.2_/node_modules/vue-router/dist/vue-router.mjs": [],
+  "pages/[...404].md": [
+    "/assets/_...404_-DO2GfvRT.js"
+  ],
+  "pages/bookmarks.md": [
+    "/assets/bookmarks-CT2S3fCM.js"
+  ],
+  "pages/chat.md": [
+    "/assets/chat-0mz3QBtI.js"
+  ],
+  "pages/demos.md": [
+    "/assets/demos-B6oTnRej.js",
+    "/assets/2021-01-12-DnAwi2Ja.mp4"
+  ],
+  "pages/giving-talks.md": [
+    "/assets/giving-talks-CgSX0uy6.js"
+  ],
+  "pages/hold-collective-sponsor-onetime.md": [
+    "/assets/hold-collective-sponsor-onetime-DxUhDBMZ.js"
+  ],
+  "pages/index.md": [
+    "/assets/index-BNuMF3XW.js"
+  ],
+  "pages/media.md": [
+    "/assets/media-CMzwngOX.js"
+  ],
+  "pages/notes.md": [
+    "/assets/notes-Cyo-kS8m.js"
+  ],
+  "pages/photos.md": [
+    "/assets/photos-2U95ri63.js",
+    "/assets/p-2018-01-27-08-05-30-000-1-Cqh-P7W5.jpg"
+  ],
+  "pages/podcasts.md": [
+    "/assets/podcasts-CQh1dF0n.js"
+  ],
+  "pages/posts/coming-soon.md": [
+    "/assets/coming-soon-BM5Bzzth.js"
+  ],
+  "pages/posts/index.md": [
+    "/assets/index-BOznjimP.js"
+  ],
+  "pages/posts/note.md": [
+    "/assets/note-DDUmjPVJ.js"
+  ],
+  "pages/projects.md": [
+    "/assets/projects-BJI9lsDq.js",
+    "/assets/projects-ClCw_IEI.css"
+  ],
+  "pages/sponsors-list.md": [
+    "/assets/sponsors-list-DQFaoEtC.js"
+  ],
+  "pages/streams.md": [
+    "/assets/streams-D1JOGxfY.js"
+  ],
+  "pages/talks.md": [
+    "/assets/talks-Bi-aY211.js"
+  ],
+  "photos/data.ts": [
+    "/assets/photos-2U95ri63.js",
+    "/assets/p-2018-01-27-08-05-30-000-1-Cqh-P7W5.jpg"
+  ],
+  "photos/p-2018-01-27-08-05-30-000-1.jpg?url": [
+    "/assets/photos-2U95ri63.js",
+    "/assets/p-2018-01-27-08-05-30-000-1-Cqh-P7W5.jpg"
+  ],
+  "photos/p-2018-01-27-08-05-30-000-1.json": [
+    "/assets/photos-2U95ri63.js",
+    "/assets/p-2018-01-27-08-05-30-000-1-Cqh-P7W5.jpg"
+  ],
+  "public/sponsors.svg?component": [
+    "/assets/sponsors-list-DQFaoEtC.js"
+  ],
+  "src/App.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/ArtDots.vue": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "src/components/ArtDots.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/ArtDots-BUfhaYaM.js"
+  ],
+  "src/components/ArtPlum.vue": [
+    "/assets/ArtPlum-CjmS74ap.js"
+  ],
+  "src/components/ArtPlum.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/ArtPlum-CjmS74ap.js"
+  ],
+  "src/components/CalCom.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/chat-0mz3QBtI.js"
+  ],
+  "src/components/Footer.vue": [],
+  "src/components/ListDemos.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/demos-B6oTnRej.js",
+    "/assets/2021-01-12-DnAwi2Ja.mp4"
+  ],
+  "src/components/ListPosts.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/ListPosts.vue_vue_type_script_setup_true_lang-Cfbz11bx.js"
+  ],
+  "src/components/ListProjects.vue": [
+    "/assets/projects-BJI9lsDq.js",
+    "/assets/projects-ClCw_IEI.css"
+  ],
+  "src/components/ListProjects.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/projects-BJI9lsDq.js",
+    "/assets/projects-ClCw_IEI.css"
+  ],
+  "src/components/ListTalks.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/talks-Bi-aY211.js"
+  ],
+  "src/components/MediaConsumption.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/media-CMzwngOX.js"
+  ],
+  "src/components/NavBar.vue": [],
+  "src/components/NavBar.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/ProjectIcon.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/projects-BJI9lsDq.js",
+    "/assets/projects-ClCw_IEI.css"
+  ],
+  "src/components/SponsorButtonCollective.vue": [
+    "/assets/SponsorButtons-9rBDO_2h.js"
+  ],
+  "src/components/SponsorButtons.vue": [
+    "/assets/SponsorButtons-9rBDO_2h.js"
+  ],
+  "src/components/SponsorsCircles.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/sponsors-list-DQFaoEtC.js"
+  ],
+  "src/components/SponsorsView.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/sponsors-list-DQFaoEtC.js"
+  ],
+  "src/components/SubNav.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/SubNav.vue_vue_type_script_setup_true_lang-Couadx4Y.js"
+  ],
+  "src/components/TalkDate.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/talks-Bi-aY211.js"
+  ],
+  "src/components/TextCopy.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/TextCopy.vue_vue_type_script_setup_true_lang-5u_GK7Ww.js"
+  ],
+  "src/components/ToggleTheme.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/WrapperDemo.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/demos-B6oTnRej.js",
+    "/assets/2021-01-12-DnAwi2Ja.mp4"
+  ],
+  "src/components/WrapperPost.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/WrapperPost.vue_vue_type_script_setup_true_lang-DpTFWvJU.js"
+  ],
+  "src/components/icons/AnthonyFu.vue": [
+    "/assets/projects-BJI9lsDq.js",
+    "/assets/projects-ClCw_IEI.css"
+  ],
+  "src/components/icons/Elk.vue": [
+    "/assets/projects-BJI9lsDq.js",
+    "/assets/projects-ClCw_IEI.css"
+  ],
+  "src/components/icons/Slidev.vue": [
+    "/assets/projects-BJI9lsDq.js",
+    "/assets/projects-ClCw_IEI.css"
+  ],
+  "src/components/icons/Unocss.vue": [
+    "/assets/projects-BJI9lsDq.js",
+    "/assets/projects-ClCw_IEI.css"
+  ],
+  "src/components/icons/Vitest.vue": [
+    "/assets/projects-BJI9lsDq.js",
+    "/assets/projects-ClCw_IEI.css"
+  ],
+  "src/components/icons/VueDemi.vue": [
+    "/assets/projects-BJI9lsDq.js",
+    "/assets/projects-ClCw_IEI.css"
+  ],
+  "src/components/icons/VueReactivity.vue": [
+    "/assets/projects-BJI9lsDq.js",
+    "/assets/projects-ClCw_IEI.css"
+  ],
+  "src/components/icons/VueUse.vue": [
+    "/assets/projects-BJI9lsDq.js",
+    "/assets/projects-ClCw_IEI.css"
+  ],
+  "src/components/photos/PhotoGalleryAll.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/photos-2U95ri63.js",
+    "/assets/p-2018-01-27-08-05-30-000-1-Cqh-P7W5.jpg"
+  ],
+  "src/components/photos/PhotoGrid.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/photos-2U95ri63.js",
+    "/assets/p-2018-01-27-08-05-30-000-1-Cqh-P7W5.jpg"
+  ],
+  "src/config/icons.ts": [
+    "/assets/projects-BJI9lsDq.js",
+    "/assets/projects-ClCw_IEI.css"
+  ],
+  "src/data/sponsors-circles.json": [
+    "/assets/sponsors-list-DQFaoEtC.js"
+  ],
+  "src/logics/index.ts": [],
+  "src/main.ts": [],
+  "src/styles/main.css": [],
+  "src/styles/markdown.css": [],
+  "src/styles/prose.css": []
+}

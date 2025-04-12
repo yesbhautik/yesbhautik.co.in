@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yesbhautik.co.in/</id>
+    <title>Bhautik Bavadiya (AKA Yesbhautik)</title>
+    <updated>2025-04-12T18:38:06.240Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Bhautik Bavadiya (AKA Yesbhautik)</name>
+        <email>hi@yesbhautik.co.in</email>
+        <uri>https://yesbhautik.me</uri>
+    </author>
+    <link rel="alternate" href="https://yesbhautik.co.in/"/>
+    <link rel="self" href="https://yesbhautik.co.in/feed.atom"/>
+    <subtitle>Bhautik Bavadiya' Blog</subtitle>
+    <logo>https://yesbhautik.co.in/avatar.png</logo>
+    <icon>https://yesbhautik.co.in/logo.png</icon>
+    <rights>CC BY-NC-SA 4.0 2021 © Bhautik Bavadiya</rights>
+    <entry>
+        <title type="html"><![CDATA[Notes will be listed here soon!]]></title>
+        <id>https://yesbhautik.me/posts/note</id>
+        <link href="https://yesbhautik.me/posts/note"/>
+        <updated>2024-12-31T16:00:00.000Z</updated>
+        <author>
+            <name>Bhautik Bavadiya (AKA Yesbhautik)</name>
+            <email>hi@yesbhautik.co.in</email>
+            <uri>https://yesbhautik.me</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New blog posts will be listed here soon!]]></title>
+        <id>https://yesbhautik.me/posts/coming-soon</id>
+        <link href="https://yesbhautik.me/posts/coming-soon"/>
+        <updated>2023-06-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>[[toc]]</p>
+<blockquote>
+<p><strong>Update</strong>: New blog posts will be listed here soon!</p>
+</blockquote>
+]]></content>
+        <author>
+            <name>Bhautik Bavadiya (AKA Yesbhautik)</name>
+            <email>hi@yesbhautik.co.in</email>
+            <uri>https://yesbhautik.me</uri>
+        </author>
+    </entry>
+</feed>

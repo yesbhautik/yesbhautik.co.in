@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Bhautik Bavadiya (AKA Yesbhautik)</title>
+        <link>https://yesbhautik.co.in/</link>
+        <description>Bhautik Bavadiya' Blog</description>
+        <lastBuildDate>Sat, 12 Apr 2025 18:38:06 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Bhautik Bavadiya (AKA Yesbhautik)</title>
+            <url>https://yesbhautik.co.in/avatar.png</url>
+            <link>https://yesbhautik.co.in/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2021 © Bhautik Bavadiya</copyright>
+        <atom:link href="https://yesbhautik.co.in/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Notes will be listed here soon!]]></title>
+            <link>https://yesbhautik.me/posts/note</link>
+            <guid>https://yesbhautik.me/posts/note</guid>
+            <pubDate>Tue, 31 Dec 2024 16:00:00 GMT</pubDate>
+            <author>hi@yesbhautik.co.in (Bhautik Bavadiya (AKA Yesbhautik))</author>
+        </item>
+        <item>
+            <title><![CDATA[New blog posts will be listed here soon!]]></title>
+            <link>https://yesbhautik.me/posts/coming-soon</link>
+            <guid>https://yesbhautik.me/posts/coming-soon</guid>
+            <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>[[toc]]</p>
+<blockquote>
+<p><strong>Update</strong>: New blog posts will be listed here soon!</p>
+</blockquote>
+]]></content:encoded>
+            <author>hi@yesbhautik.co.in (Bhautik Bavadiya (AKA Yesbhautik))</author>
+        </item>
+    </channel>
+</rss>
