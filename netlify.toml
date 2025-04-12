@@ -15,7 +15,7 @@ Cache-Control = "public, max-age=31536000, immutable"
 from = "https://yesbhautik.co.in/*"
 to = "https://yesbhautik.co.in/:splat"
 status = 302
-force = true
+force = false
 
 [[redirects]]
 from = "/*"
