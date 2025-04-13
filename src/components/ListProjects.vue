@@ -35,17 +35,6 @@ function slug(name: string) {
           />
           Recent Releases
         </a>
-        <a
-          href="https://yak.yesbhautik.co.in"
-          target="_blank"
-          class="group btn-lime inline-block"
-        >
-          <div
-            i-ph-cow-duotone
-            group-hover="i-ph-cow-duotone-fill text-lime"
-          />
-          Yak Map
-        </a>
       </div>
       <hr>
     </div>
