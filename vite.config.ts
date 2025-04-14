@@ -150,7 +150,7 @@ export default defineConfig({
             'Netlify': { link: 'https://netlify.com', imageUrl: 'https://github.com/netlify.png' },
             'Stackblitz': { link: 'https://stackblitz.com', imageUrl: 'https://github.com/stackblitz.png' },
             'Vercel': { link: 'https://vercel.com', imageUrl: 'https://github.com/vercel.png' },
-            'YBX Group': { link: 'https://yesbhautikx.co.in', imageUrl: 'https://res.cloudinary.com/dl9rorn1z/image/upload/v1744432959/Static/Logo/YesbhautikX/SVG/1x1_blackbg.svg' },
+            'YBX Labs': { link: 'https://yesbhautikx.co.in', imageUrl: 'https://res.cloudinary.com/dl9rorn1z/image/upload/v1744634858/Static/YBX%20Labs/Logo/SVG/gtclxjj89vbjls7fwits.svg' },
             'FlavorGPT': { link: 'https://flavor-ai.tech', imageUrl: 'https://res.cloudinary.com/dl9rorn1z/image/upload/v1744432171/Static/Logo/FlavorGPT/rvoxosjdimvakytzjlqu.svg' },
           },
           imageOverrides: [
