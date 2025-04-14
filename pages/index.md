@@ -6,7 +6,7 @@ art: random
 ---
 Hey there! I'm Bhautik Bavadiya, helping early-stage startups and founders turn their visions into reality.
 
-Founder & CEO of {YBX Group}<br>
+Founder & CEO of {YBX Labs}<br>
 Building {FlavorGPT}<br>
 
 Dreaming up cool hack ideas and making them come true is where my passion lies. You can find my [full projects list here](/projects).
