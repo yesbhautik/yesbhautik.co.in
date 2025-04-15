@@ -26,7 +26,7 @@ Connect with me on
   <a href="https://www.linkedin.com/in/yesbhautik" target="_blank"><span op75 i-simple-icons-linkedin /> LinkedIn</a>
   <a href="https://t.me/yesbhautik" target="_blank"><span op75 i-ri-telegram-fill /> Telegram</a>
   <a href="https://github.com/yesbhautik" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://x.com/yesbhautik" target="_blank"><span op75 i-ri-twitter-x-fill />X</a>
+  <a href="https://x.com/yesbhautik" target="_blank"><span op75 i-ri-twitter-x-fill /> </a>
   <a href="https://wa.me/916353586391" target="_blank"><span op75 i-ri-whatsapp-fill /> WhatsApp</a>
   <a href="https://matrix.to/#/@yesbhautik:beeper.com" target="_blank"><span op75 i-simple-icons-matrix /> Matrix</a>
   <a href="https://www.instagram.com/yesbhautik" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
