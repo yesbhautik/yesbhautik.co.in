@@ -21,7 +21,7 @@ function toggleMobileMenu() {
     <!-- Mobile Header -->
     <div class="mobile-header fixed top-0 left-0 right-0 h-16 bg-white/90 dark:bg-[#050505]/90 flex items-center justify-between px-4 z-50 md:hidden">
       <!-- Logo -->
-      <RouterLink to="/" class="w-30" focusable="false">
+      <RouterLink to="/" class="w-30 pt-2" focusable="false">
         <img src="/sign.svg" alt="Logo" class="logo-image" width="100%" height="100%" />
       </RouterLink>
       
