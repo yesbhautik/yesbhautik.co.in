@@ -6,8 +6,10 @@ art: random
 ---
 Hey there! I'm Bhautik Bavadiya, helping early-stage startups and founders turn their visions into reality.
 
-Founder & CEO of {YBX Labs}<br>
+Founder & CEO of {YBX Labs}, HQ in India<br>
+Co-founder & CEO of {Quantum Nous (量子智元)}, HQ in China<br>
 Building {FlavorGPT}<br>
+Working on {AI asset management infrastructure}<br>
 
 Dreaming up cool hack ideas and making them come true is where my passion lies. You can find my [full projects list here](/projects).
 
