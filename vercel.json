@@ -3,7 +3,6 @@
   "buildCommand": "pnpm run build",
   "outputDirectory": "dist",
   "framework": "vite",
-  "nodeVersion": 22,
   "headers": [
     {
       "source": "/assets/(.*)",
