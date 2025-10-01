@@ -48,6 +48,7 @@ Below is a list of all the equipment and tools I use on a daily basis. This list
 
 - **[tomtoc Travel Backpack 40L](https://www.tomtoc.com/products/40l-travel-backpack-carry-on?srsltid=AfmBOoq2RaVU90ciMUyvPjN63c3WfLmFppybGxQhri68RjsGT0sJzjsr)**
 - **[Decathlon QUECHUA Hiking Backpack 23L](https://www.decathlon.vn/p/balo-d%C3%A3-ngo%E1%BA%A1i-23l-nh500-escape-roll-xanh-l%C3%A1-quechua-8919965.html)**
+- **[Almost all backpacking stuff are from Decathlon](https://www.decathlon-united.media/en_GB/around-the-world)**
 
 ## You guys contact me for these
 

@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "buildCommand": "pnpm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "nodeVersion": 22,
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    { "source": "/rss", "destination": "https://yesbhautik.co.in/feed.xml", "permanent": true },
+    { "source": "/blog", "destination": "https://yesbhautik.co.in/posts", "permanent": true },
+    { "source": "/github", "destination": "https://github.com/yesbhautik", "permanent": true },
+    { "source": "/gh", "destination": "https://github.com/yesbhautik", "permanent": true },
+    { "source": "/twitter", "destination": "https://x.com/yesbhautik", "permanent": true },
+    { "source": "/x", "destination": "https://x.com/yesbhautik", "permanent": true },
+    { "source": "/sponsor", "destination": "https://github.com/sponsors/yesbhautik", "permanent": true },
+    { "source": "/support", "destination": "https://github.com/sponsors/yesbhautik", "permanent": true }
+  ],
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
