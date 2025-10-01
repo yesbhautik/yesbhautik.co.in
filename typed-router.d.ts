@@ -38,4 +38,104 @@ declare module 'vue-router/auto-routes' {
     '/talks': RouteRecordInfo<'/talks', '/talks', Record<never, never>, Record<never, never>>,
     '/uses': RouteRecordInfo<'/uses', '/uses', Record<never, never>, Record<never, never>>,
   }
+
+  /**
+   * Route file to route info map by unplugin-vue-router.
+   * Used by the volar plugin to automatically type useRoute()
+   *
+   * Each key is a file path relative to the project root with 2 properties:
+   * - routes: union of route names of the possible routes when in this page (passed to useRoute<...>())
+   * - views: names of nested views (can be passed to <RouterView name="...">)
+   *
+   * @internal
+   */
+  export interface _RouteFileInfoMap {
+    'pages/index.md': {
+      routes: '/'
+      views: never
+    }
+    'pages/[...404].md': {
+      routes: '/[...404]'
+      views: never
+    }
+    'pages/bookmarks.md': {
+      routes: '/bookmarks'
+      views: never
+    }
+    'pages/chat.md': {
+      routes: '/chat'
+      views: never
+    }
+    'pages/demos.md': {
+      routes: '/demos'
+      views: never
+    }
+    'pages/giving-talks.md': {
+      routes: '/giving-talks'
+      views: never
+    }
+    'pages/hold-collective-sponsor-onetime.md': {
+      routes: '/hold-collective-sponsor-onetime'
+      views: never
+    }
+    'pages/media.md': {
+      routes: '/media'
+      views: never
+    }
+    'pages/notes.md': {
+      routes: '/notes'
+      views: never
+    }
+    'pages/photos.md': {
+      routes: '/photos'
+      views: never
+    }
+    'pages/podcasts.md': {
+      routes: '/podcasts'
+      views: never
+    }
+    'pages/posts/index.md': {
+      routes: '/posts/'
+      views: never
+    }
+    'pages/posts/coming-soon.md': {
+      routes: '/posts/coming-soon'
+      views: never
+    }
+    'pages/posts/note.md': {
+      routes: '/posts/note'
+      views: never
+    }
+    'pages/projects.md': {
+      routes: '/projects'
+      views: never
+    }
+    'pages/sponsors-list.md': {
+      routes: '/sponsors-list'
+      views: never
+    }
+    'pages/streams.md': {
+      routes: '/streams'
+      views: never
+    }
+    'pages/talks.md': {
+      routes: '/talks'
+      views: never
+    }
+    'pages/uses.md': {
+      routes: '/uses'
+      views: never
+    }
+  }
+
+  /**
+   * Get a union of possible route names in a certain route component file.
+   * Used by the volar plugin to automatically type useRoute()
+   *
+   * @internal
+   */
+  export type _RouteNamesForFilePath<FilePath extends string> =
+    _RouteFileInfoMap extends Record<FilePath, infer Info>
+      ? Info['routes']
+      : keyof RouteNamedMap
 }

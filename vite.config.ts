@@ -1,7 +1,7 @@
 import { Buffer } from 'node:buffer'
 import { basename, dirname, resolve } from 'node:path'
 import MarkdownItShiki from '@shikijs/markdown-it'
-import { transformerNotationDiff, transformerNotationHighlight, transformerNotationWordHighlight } from '@shikijs/transformers'
+import { transformerMetaHighlight, transformerNotationDiff, transformerNotationHighlight, transformerNotationWordHighlight } from '@shikijs/transformers'
 import { rendererRich, transformerTwoslash } from '@shikijs/twoslash'
 import Vue from '@vitejs/plugin-vue'
 import fs from 'fs-extra'
@@ -15,6 +15,7 @@ import TOC from 'markdown-it-table-of-contents'
 import sharp from 'sharp'
 import UnoCSS from 'unocss/vite'
 import AutoImport from 'unplugin-auto-import/vite'
+import { FileSystemIconLoader } from 'unplugin-icons/loaders'
 import IconsResolver from 'unplugin-icons/resolver'
 import Icons from 'unplugin-icons/vite'
 import Components from 'unplugin-vue-components/vite'
@@ -26,7 +27,6 @@ import Inspect from 'vite-plugin-inspect'
 import Exclude from 'vite-plugin-optimize-exclude'
 import SVG from 'vite-svg-loader'
 import { slugify } from './scripts/slugify'
-import { FileSystemIconLoader } from 'unplugin-icons/loaders'
 
 const promises: Promise<any>[] = []
 
@@ -100,6 +100,7 @@ export default defineConfig({
             transformerNotationDiff(),
             transformerNotationHighlight(),
             transformerNotationWordHighlight(),
+            transformerMetaHighlight(),
           ],
         }))
 
@@ -217,19 +218,19 @@ export default defineConfig({
       scale: 1.5,
       autoInstall: true,
       customCollections: {
-        'brand': {
-          'flavorgpt': '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path d="M50 0 L100 100 L0 100 Z"/></svg>',
-          'ybx': '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="50" cy="50" r="40"/></svg>',
+        brand: {
+          flavorgpt: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path d="M50 0 L100 100 L0 100 Z"/></svg>',
+          ybx: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="50" cy="50" r="40"/></svg>',
         },
-        'local': FileSystemIconLoader(
+        local: FileSystemIconLoader(
           './public/custom-icons',
-          (svg: string) => svg.replace(/^<svg /, '<svg fill="currentColor" ')
+          (svg: string) => svg.replace(/^<svg /, '<svg fill="currentColor" '),
         ),
       },
-      transform(svg: string, collection: string, icon: string) {
+      transform(svg: string, _collection: string, _icon: string) {
         return svg
       },
-      iconCustomizer(collection: string, icon: string, props: Record<string, any>) {
+      iconCustomizer(collection: string, _icon: string, props: Record<string, any>) {
         if (collection === 'brand') {
           props.width = '3em'
           props.height = '3em'

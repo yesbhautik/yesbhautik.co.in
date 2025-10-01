@@ -4,7 +4,6 @@ display: ''
 art: plum
 ---
 
-
 # What I Use
 
 Below is a list of all the equipment and tools I use on a daily basis. This list is updated regularly.
@@ -19,20 +18,34 @@ Below is a list of all the equipment and tools I use on a daily basis. This list
 - **[Samsung 27 Inch Monitor](https://amzn.to/3FzfVzy)**
 - **[Logitech G512 Blue Mechanical Keyboard](https://amzn.to/47aqRzy)** — Nothing fancy over here, just a table that fits my office.
 - **[Cosmic Byte CB-GK-16 Blue Mechanical Keyboard](https://amzn.to/40fPcl6)** — Backup keyboard.
-- **[Shure MV7+](https://amzn.to/41yhVmp)** — My first choice for smoothness.
-- **[RODE PSA1 arm](https://rode.com/en/accessories/stands-bars/psa1)** — Keep quiet on motion.
-- **[Airpods PRO 2](https://www.apple.com/airpods-pro/)**
-- **[Echo Dot](https://amzn.to/3tOO7EF)** — Average speaker, not recommended.
 - **[Ergonomic Chair](#)** — I sit all day, so I might as well get a good chair.
 - **[Tukzer Large Mouse Pad](https://amzn.to/45T0QDw)** — Smooth tasks with smooth flows.
 - **[iPhone 16 Pro Max](https://www.apple.com/shop/buy-iphone/iphone-16-pro)** - I use this for work.
-- **[Poco X4 Pro with Customized Android](https://www.po.co/global/product/poco-x4-pro-5g/)** - I use this for experimental & personal uses.
+- **[Xiaomi 15 Ultra](https://www.mi.com/global/product/xiaomi-15-ultra/)**
 - **[Trebleet Thunderbolt 5 Enclosure](https://www.trebleet.com/product-page/thunderbolt-5-80gbps-m-2-nvme-ssd-enclosure-transfer-rates-over-7000mb-s?srsltid=AfmBOoqXEhWNgofGnhfgcxw6m2ooCmbTtXXke3SgnG0JNRzI7Q-IhniV)** - World's fastest up to 80 Gbps transfer rate.
+- **[1TB WD Black SN580](https://shop.sandisk.com/en-ie/products/ssd/internal-ssd/wd-blue-sn580-nvme-ssd?sku=WDS100T3B0E-00CHF0)**
+- **[4TB Samsung 990 PRO](https://semiconductor.samsung.com/consumer-storage/internal-ssd/990-pro/)**
+- **[1TB SanDisk Extreme® PRO microSDXC](https://shop.sandisk.com/en-in/products/memory-cards/microsd-cards/sandisk-extreme-pro-uhs-i-microsd?sku=SDSQXCD-1T00-GN6MA)**
+- **[1TB WD HDD](https://www.westerndigital.com/en-in/products/portable-drives/wd-elements-portable-usb-3-0-hdd?sku=WDBHHG0010BBK-EESN)**
+- **[DJI OSMO 360](https://www.dji.com/global/360)**
+- **[iPad PRO M4](https://www.apple.com/shop/buy-ipad/ipad-pro)**
+
+## Audio
+
+- **[Shure MV7+](https://amzn.to/41yhVmp)** — My first choice for smoothness.
+- **[RODE PSA1 arm](https://rode.com/en/accessories/stands-bars/psa1)** — Keep quiet on motion.
+- **[Airpods PRO 2](https://www.apple.com/airpods-pro/)**
+- **[Sony WH-1000XM6](https://electronics.sony.com/audio/headphones/headband/p/wh1000xm6-b?srsltid=AfmBOoo0BpXP6kH6f1r3XdT1nGSHBKG3-_5WfvP4K8eTaqFJO3OMFKVH)**
+- **[Echo Dot](https://amzn.to/3tOO7EF)** — Average speaker, not recommended.
+- **[OnePlus Buds 2](https://amzn.to/49cXFJS)** — By far the best headphones I ever had. Premium quality, solid build.
+- **[Redgear Cosmo 7.1 Surround Sound](https://amzn.to/4gdr2yl)** — All rounder rough and tough headset.
 
 ## You guys contact me for these
+
 - **[Custom standing desk](/chat)**
 - **[Custom 20 power point metal strip](/chat)**
 - **[Custom Cable management metal box](/chat)**
+- **[Any other custom stuff](/chat)**
 
 ## Coding
 
@@ -93,14 +106,8 @@ Below is a list of all the equipment and tools I use on a daily basis. This list
 - **[Canva](https://canva.com/)** — Create stunning designs.
 - **[Adobe Suite](https://adobe.com/)** — I use Adobe Illustrator, after effects, premiere pro, and photoshop.
 
-## Audio
-
-- **[OnePlus Buds 2](https://amzn.to/49cXFJS)** — By far the best headphones I ever had. Premium quality, solid build.
-- **[Redgear Cosmo 7.1 Surround Sound](https://amzn.to/4gdr2yl)** — All rounder rough and tough headset.
-
 ## Finance
 
 - **[Gmgn](https://gmgn.ai/)** — Good night sleep, good morning money.
 - **[Binance](https://binance.com)**
 - **[pump.fun](https://pump.fun/)**
-
