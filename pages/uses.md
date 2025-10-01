@@ -29,6 +29,10 @@ Below is a list of all the equipment and tools I use on a daily basis. This list
 - **[1TB WD HDD](https://www.westerndigital.com/en-in/products/portable-drives/wd-elements-portable-usb-3-0-hdd?sku=WDBHHG0010BBK-EESN)**
 - **[DJI OSMO 360](https://www.dji.com/global/360)**
 - **[iPad PRO M4](https://www.apple.com/shop/buy-ipad/ipad-pro)**
+- **[UGREEN Nexode 300W GaN Charger](https://www.ugreen.com/products/ugreen-300w-desktop-usb-c-gan-charger)**
+- **[UGREEN Nexode Power Bank 25000mAh 200W](https://www.ugreen.com/collections/power-bank/products/ugreen-nexode-power-bank-25000mah-200w-with-smart-digital-display)**
+- **[Ledger Stax](https://shop.ledger.com/pages/ledger-stax?srsltid=AfmBOor1g0Kgax06tFv6V06mWj90PBDYUUgexpS-OUzYOpQQG-D7jdft#main-attraction)**
+- **[All other cables & accessories covered by UGREEN](https://www.ugreen.com/)**
 
 ## Audio
 
@@ -39,6 +43,11 @@ Below is a list of all the equipment and tools I use on a daily basis. This list
 - **[Echo Dot](https://amzn.to/3tOO7EF)** — Average speaker, not recommended.
 - **[OnePlus Buds 2](https://amzn.to/49cXFJS)** — By far the best headphones I ever had. Premium quality, solid build.
 - **[Redgear Cosmo 7.1 Surround Sound](https://amzn.to/4gdr2yl)** — All rounder rough and tough headset.
+
+## Other
+
+- **[tomtoc Travel Backpack 40L](https://www.tomtoc.com/products/40l-travel-backpack-carry-on?srsltid=AfmBOoq2RaVU90ciMUyvPjN63c3WfLmFppybGxQhri68RjsGT0sJzjsr)**
+- **[Decathlon QUECHUA Hiking Backpack 23L](https://www.decathlon.vn/p/balo-d%C3%A3-ngo%E1%BA%A1i-23l-nh500-escape-roll-xanh-l%C3%A1-quechua-8919965.html)**
 
 ## You guys contact me for these
 
@@ -62,6 +71,7 @@ Below is a list of all the equipment and tools I use on a daily basis. This list
 
 ## Apps
 
+- \*\*[FlavorGPT](https://flavorgpt.yesbhautikx.co.in/)
 - **[1Password](https://1password.com)** — The first thing I install on any new device.
 - **[KeePassXC](https://keepassxc.org)** — Best Open Source Password Manager (I was using it before 1Password), must recommend if you don't want to spend money on premium password managers.
 - **[ShareX](https://getsharex.com)** — This is what I use whenever I need to share and/or highlight screenshots (for Windows).
@@ -92,7 +102,7 @@ Below is a list of all the equipment and tools I use on a daily basis. This list
 - **[Firebase](https://firebase.google.com)** — A no-brainer database and auth solution for side projects.
 - **[Namecheap Domains](https://namecheap.com/)** — I buy and renew all my domains here.
 - **[Infisical](https://infisical.com)** — An open-source secrets manager for developers.
-- **[YesbhautikX Cloud](https://yesbhautikx.co.in/)** — Here is where I host all my websites.
+- **[YBX Labs](https://ybxlabs.com/)** — From servers & AI GaNs
 - **[Amazon Web Services - AWS](https://aws.amazon.com/)**
 - **[Microsoft Azure & AI Studio](https://azure.microsoft.com/)**
 - **[Oracle Cloud](https://www.oracle.com/cloud/)**
