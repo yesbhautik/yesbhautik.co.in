@@ -50,12 +50,12 @@ Below is a list of all the equipment and tools I use on a daily basis. This list
 - **[Decathlon QUECHUA Hiking Backpack 23L](https://www.decathlon.vn/p/balo-d%C3%A3-ngo%E1%BA%A1i-23l-nh500-escape-roll-xanh-l%C3%A1-quechua-8919965.html)**
 - **[Almost all backpacking stuff are from Decathlon](https://www.decathlon-united.media/en_GB/around-the-world)**
 
-## You guys contact me for these
+## Custom builds
 
-- **[Custom standing desk](/chat)**
-- **[Custom 20 power point metal strip](/chat)**
-- **[Custom Cable management metal box](/chat)**
-- **[Any other custom stuff](/chat)**
+- **[Standing desk](/chat)**
+- **[20 power point metal strip](/chat)**
+- **[Cable management metal box](/chat)**
+- **[Many other custom accessories](/chat)**
 
 ## Coding
 
@@ -72,7 +72,7 @@ Below is a list of all the equipment and tools I use on a daily basis. This list
 
 ## Apps
 
-- \*\*[FlavorGPT](https://flavorgpt.yesbhautikx.co.in/)
+- **[FlavorGPT](hhttps://flavor-ai.tech/)**
 - **[1Password](https://1password.com)** — The first thing I install on any new device.
 - **[KeePassXC](https://keepassxc.org)** — Best Open Source Password Manager (I was using it before 1Password), must recommend if you don't want to spend money on premium password managers.
 - **[ShareX](https://getsharex.com)** — This is what I use whenever I need to share and/or highlight screenshots (for Windows).

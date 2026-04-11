@@ -4,19 +4,18 @@ description: Bhautik Bavadiya's Personal Website
 image: https://yesbhautik.co.in/og/preview.png
 art: random
 ---
-Hey there! I'm Bhautik Bavadiya, helping early-stage startups and founders turn their visions into reality.
 
-Founder & CEO of {YBX Labs}, HQ in India<br>
-Co-founder & CEO of {Quantum Nous (量子智元)}, HQ in China<br>
-Building {FlavorGPT}<br>
+Hey there! I'm Bhautik Bavadiya, helping startups and founders turn their visions into reality.
+
+Founder & CEO of {YBX Labs} {FlavorAI}<br>
 Working on {AI asset management infrastructure}<br>
 
 Dreaming up cool hack ideas and making them come true is where my passion lies. You can find my [full projects list here](/projects).
 
-I give [consultancy services](/chat) in branding, business growth, career development, technical advisory, etc..<br>
+I give [personal services](/chat) in business growth, business development, TGE, Go to Market etc..<br>
 Occasionally, I also contribute to open-source/non-profit projects &amp; activities.
 
-Outside of technopreneurship, I enjoy photography and traveling. Some of my photos can be found on [this page](/photos). I also love movies, dramas, and music - my media consumption can be found [here](/media). I live in **Ahmedabad (India)**, if you're around, please reach out and let's have some coffee or work together.
+Outside of technopreneurship, I enjoy photography and traveling. Some of my clicks can be found on [this page](/photos). I also love movies, dramas, and music - my media consumption can be found [here](/media). I live in **Ahmedabad (India)**, if you're around, please reach out and let's have some coffee or work together.
 
 <div flex-auto />
 
@@ -28,7 +27,7 @@ Connect with me on
   <a href="https://www.linkedin.com/in/yesbhautik" target="_blank"><span op75 i-simple-icons-linkedin /> LinkedIn</a>
   <a href="https://t.me/yesbhautik" target="_blank"><span op75 i-ri-telegram-fill /> Telegram</a>
   <a href="https://github.com/yesbhautik" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://x.com/yesbhautik" target="_blank"><span op75 token-branded:elon /> X</a>
+  <a href="https://x.com/yesbhautik" target="_blank"><span op75 i-simple-icons-x /></a>
   <a href="https://wa.me/916353586391" target="_blank"><span op75 i-ri-whatsapp-fill /> WhatsApp</a>
   <a href="https://matrix.to/#/@yesbhautik:beeper.com" target="_blank"><span op75 i-simple-icons-matrix /> Matrix</a>
   <a href="https://www.instagram.com/yesbhautik" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
@@ -37,10 +36,10 @@ Connect with me on
 Or mail me at <span font-mono>hi<span i-carbon-at/>yesbhautik.co.in</span>
 
 Inactive on <span flex="~ inline gap-2 wrap">
-  <a href="https://elk.zone/fosstodon.org/@yesbhautik" target="_blank"><span op75 i-simple-icons-mastodon/> Mastodon</a>
-  <a href="https://www.youtube.com/yesbhautik" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
-  <a href="https://bsky.app/profile/yesbhautik.co.in" target="_blank"><span op75 i-ri-bluesky-fill /> Bluesky</a>
-  <a href="https://www.threads.net/@yesbhautik" target="_blank"><span op75 i-ri-threads-line /> Threads</a>
+<a href="https://elk.zone/fosstodon.org/@yesbhautik" target="_blank"><span op75 i-simple-icons-mastodon/> Mastodon</a>
+<a href="https://www.youtube.com/yesbhautik" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
+<a href="https://bsky.app/profile/yesbhautik.co.in" target="_blank"><span op75 i-ri-bluesky-fill /> Bluesky</a>
+<a href="https://www.threads.net/@yesbhautik" target="_blank"><span op75 i-ri-threads-line /> Threads</a>
 </span>
 
 ---

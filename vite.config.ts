@@ -154,7 +154,7 @@ export default defineConfig({
             'YBX Labs': { link: 'https://yesbhautikx.co.in', imageUrl: 'https://res.cloudinary.com/dl9rorn1z/image/upload/v1744824109/Static/YBX%20Labs/Logo/SVG/nifpsq1jslluhegb8d3q.svg' },
             'Quantum Nous (量子智元)': { link: 'https://links.yesbhautik.co.in/nonav', imageUrl: 'QuantumNous.png' },
             'AI asset management infrastructure': { link: 'https://yesbhautik.co.in/nonav', imageUrl: 'nitro.svg' },
-            'FlavorGPT': { link: 'https://flavor-ai.tech', imageUrl: 'https://res.cloudinary.com/dl9rorn1z/image/upload/v1744432171/Static/Logo/FlavorGPT/rvoxosjdimvakytzjlqu.svg' },
+            'FlavorAI': { link: 'https://flavor-ai.tech', imageUrl: 'https://res.cloudinary.com/dl9rorn1z/image/upload/v1744432171/Static/Logo/FlavorGPT/rvoxosjdimvakytzjlqu.svg' },
           },
           imageOverrides: [
             ['https://github.com/vuejs/core', 'https://vuejs.org/logo.svg'],

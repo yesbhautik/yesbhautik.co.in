@@ -4,7 +4,6 @@
     consider sponsor me and the ecosystem to help Open Source sustainable. Thank you!
   </p>
 
-
   <p flex="~ gap-2 wrap">
     <a
       href="https://github.com/sponsors/yesbhautik"
@@ -19,7 +18,7 @@
       Sponsor to support Bhautik
     </a>
     <a
-      href="https://razorpay.me/@yesbhautikx"
+      href="https://razorpay.me/@ybxlabs"
       target="_blank"
       class="group btn-yellow inline-block"
     >
