@@ -1,6 +1,7 @@
 import { existsSync } from 'node:fs'
 import fs from 'node:fs/promises'
 import { fileURLToPath } from 'node:url'
+import { encode as blurhashEncode } from 'blurhash'
 import ExifReader from 'exifreader'
 import fg from 'fast-glob'
 import { basename, join, parse } from 'pathe'
@@ -9,7 +10,7 @@ import { compressSharp } from './img-compress'
 
 const folder = fileURLToPath(new URL('../photos', import.meta.url))
 
-const files = (await fg('**/*.{jpg,png,jpeg}', {
+let files = (await fg('**/*.{jpg,png,jpeg}', {
   caseSensitiveMatch: false,
   absolute: true,
   cwd: fileURLToPath(new URL('../photos', import.meta.url)),
@@ -37,11 +38,14 @@ for (const filepath of files) {
   dateRaw = String(dateRaw)
 
   // convert 2025:02:02 10:07:10 to date object
-  const date = new Date(dateRaw.replace(/:/g, (x, idx) => {
+  let date = new Date(dateRaw.replace(/:/g, (x, idx) => {
     if (idx < 10)
       return '-'
     return x
   }))
+  if (Number.isNaN(+date)) {
+    date = new Date()
+  }
 
   const timeDiff = Date.now() - +date
   // 1 hour
@@ -65,4 +69,46 @@ for (const filepath of files) {
   if (title) {
     await fs.writeFile(outFile.replace(/\.\w+$/, '.json'), JSON.stringify({ text: title }, null, 2))
   }
+}
+
+// Generate blurhash
+files = (await fg('**/*.{jpg,png,jpeg}', {
+  caseSensitiveMatch: false,
+  absolute: true,
+  cwd: fileURLToPath(new URL('../photos', import.meta.url)),
+}))
+  .sort((a, b) => a.localeCompare(b))
+
+for (const filepath of files) {
+  if (!basename(filepath).startsWith('p-')) {
+    continue
+  }
+  const configFile = filepath.replace(/\.\w+$/, '.json')
+  let config: Record<string, any> = {}
+  if (existsSync(configFile)) {
+    config = JSON.parse(await fs.readFile(configFile, 'utf-8'))
+  }
+  if (config.blurhash) {
+    continue
+  }
+  const buffer = await fs.readFile(filepath)
+  const img = sharp(buffer)
+  const { data, info } = await img
+    .raw()
+    .ensureAlpha()
+    .resize(32, 32, { fit: 'cover' })
+    .toBuffer({ resolveWithObject: true })
+  const blurhash = blurhashEncode(new Uint8ClampedArray(data), info?.width, info?.height, 4, 4)
+  config.blurhash = blurhash
+  await fs.writeFile(configFile, JSON.stringify(config, null, 2))
+}
+
+// Clean up json files that don't have a corresponding image
+for (const json of await fg('**/*.json', {
+  caseSensitiveMatch: false,
+  absolute: true,
+  cwd: fileURLToPath(new URL('../photos', import.meta.url)),
+})) {
+  if (!existsSync(json.replace(/\.json$/, '.jpg')))
+    await fs.unlink(json)
 }

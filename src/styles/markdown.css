@@ -299,7 +299,7 @@ h6:focus .header-anchor {
   color: var(--fg-light) !important;
 }
 
-a[href$="/nonav"] {
+a[href$='/nonav'] {
   pointer-events: none !important;
   cursor: default !important;
   text-decoration: none !important;

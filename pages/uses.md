@@ -1,5 +1,7 @@
 ---
 title: Uses - Bhautik Bavadiya (AKA Yesbhautik)
+description: Hardware, software, tools, and workspace gear used by Bhautik Bavadiya for startup work, AI product building, business operations, and creative projects.
+keywords: founder tools, startup setup, AI workflow, productivity tools, developer setup, business tools, creator gear
 display: ''
 art: plum
 ---
@@ -18,7 +20,7 @@ Below is a list of all the equipment and tools I use on a daily basis. This list
 - **[Samsung 27 Inch Monitor](https://amzn.to/3FzfVzy)**
 - **[Logitech G512 Blue Mechanical Keyboard](https://amzn.to/47aqRzy)** — Nothing fancy over here, just a table that fits my office.
 - **[Cosmic Byte CB-GK-16 Blue Mechanical Keyboard](https://amzn.to/40fPcl6)** — Backup keyboard.
-- **[Ergonomic Chair](#)** — I sit all day, so I might as well get a good chair.
+- **Ergonomic Chair** — I sit all day, so I might as well get a good chair.
 - **[Tukzer Large Mouse Pad](https://amzn.to/45T0QDw)** — Smooth tasks with smooth flows.
 - **[iPhone 16 Pro Max](https://www.apple.com/shop/buy-iphone/iphone-16-pro)** - I use this for work.
 - **[Xiaomi 15 Ultra](https://www.mi.com/global/product/xiaomi-15-ultra/)**

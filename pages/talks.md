@@ -1,5 +1,7 @@
 ---
 title: Talks - Bhautik Bavadiya (AKA Yesbhautik)
+description: Talks and speaking schedule for Bhautik Bavadiya on startups, business growth, technology, AI, crypto, Web3, and founder journeys.
+keywords: startup talks, business talks, AI talks, crypto talks, Web3 talks, technology speaker, founder journey
 display: ''
 art: plum
 ---
@@ -18,10 +20,11 @@ art: plum
 <details>
 <summary><span text-lg>Talk Schedule 2025</span></summary>
 
-| Date                          | Conference                                                                                           | Location             | Topic                                                               |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------- |
-| <TalkDate date="2025-04-12"/> | [**It will be listed here soon**](#) | Universe | mentioned soon!                                                |
-<!-- 
+| Date                          | Conference                      | Location | Topic           |
+| ----------------------------- | ------------------------------- | -------- | --------------- |
+| <TalkDate date="2025-04-12"/> | **It will be listed here soon** | Universe | mentioned soon! |
+
+<!--
 | Date                          | Conference                                                                                           | Location             | Topic                                                               |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------- |
 | <TalkDate date="2024-02-27"/> | [**The Vue-niverse meetup**](https://www.meetup.com/nl-NL/coven-of-wisdom-utrecht/events/298711260/) | Utrecht, Netherlands | The Progressive Path                                                |

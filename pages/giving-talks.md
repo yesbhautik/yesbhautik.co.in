@@ -1,10 +1,11 @@
 ---
 title: Consultation & Talks - Bhautik Bavadiya (AKA Yesbhautik)
+description: Invite Bhautik Bavadiya for talks, consultation, and workshops on startups, business growth, AI, crypto, Web3, TGE strategy, and technology leadership.
+keywords: business speaker, startup speaker, AI speaker, crypto speaker, Web3 speaker, TGE consultant, technology consultant, founder workshops
 display: ''
 ---
 
 # Consultation &#38; Talk
-
 
 Hey! My name is [Bhautik Bavadiya](/). I help early-stage startups and founders turn their visions into reality. I'm the Founder & CEO of YBX Group and currently building FlavorGPT.
 

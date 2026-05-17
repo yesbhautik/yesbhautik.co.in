@@ -61,4 +61,4 @@ import YesbhautikLogo from '../components/YesbhautikLogo.vue'
 .dark .instructions code {
   background-color: #333;
 }
-</style> 
+</style>
