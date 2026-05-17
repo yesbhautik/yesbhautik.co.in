@@ -6,7 +6,7 @@ import fs from 'fs-extra'
 import matter from 'gray-matter'
 import MarkdownIt from 'markdown-it'
 
-const DOMAIN = 'https://yesbhautik.me'
+const DOMAIN = 'https://yesbhautik.co.in'
 const AUTHOR = {
   name: 'Bhautik Bavadiya (AKA Yesbhautik)',
   email: 'hi@yesbhautik.co.in',

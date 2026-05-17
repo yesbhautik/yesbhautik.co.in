@@ -1,7 +1,8 @@
 ---
 title: Projects - Bhautik Bavadiya (AKA Yesbhautik)
 display: Projects
-description: List of projects that I am proud of
+description: Products, experiments, and technology projects by Bhautik Bavadiya across AI tooling, founder infrastructure, automation, open source, and scalable digital systems.
+keywords: AI projects, startup products, open source, automation tools, founder infrastructure, SaaS, technology projects, FlavorGPT, YBX Labs
 wrapperClass: 'text-center'
 art: dots
 projects:

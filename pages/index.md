@@ -1,7 +1,10 @@
 ---
 title: Bhautik Bavadiya (AKA Yesbhautik)
-description: Bhautik Bavadiya's Personal Website
+seoTitle: Global Startup, AI, Crypto & Business Growth Consultant
+description: Global startup operator and technology consultant helping founders with business growth, go-to-market, AI products, crypto, Web3, TGE strategy, and scalable digital infrastructure.
 image: https://yesbhautik.co.in/og/preview.png
+ogTitle: Crafting the future, Today!
+keywords: startup consultant, business growth, go to market, AI products, machine learning, crypto, Web3, TGE, technology strategy, global founder support
 art: random
 ---
 

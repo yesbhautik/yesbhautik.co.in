@@ -1,6 +1,7 @@
 ---
 title: Photos - Bhautik Bavadiya (AKA Yesbhautik)
-description: Photos by Bhautik Bavadiya (AKA Yesbhautik)
+description: Photography by Bhautik Bavadiya, sharing travel, lifestyle, and visual stories alongside his work in startups, technology, AI, and global business.
+keywords: Bhautik Bavadiya photography, travel photography, founder lifestyle, technology founder, global entrepreneur
 display: ''
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: Sponsors - Bhautik Bavadiya (AKA Yesbhautik)
+seoTitle: Sponsors, Supporters & Open Source Backers
 display: Sponsors
 subtitle: Great thanks for all the Sponsors!
-description: Sponsors of Bhautik Bavadiya (AKA Yesbhautik)
+description: Acknowledgement of sponsors, supporters, and backers helping Bhautik Bavadiya continue open-source work, startup experiments, AI tooling, and founder-focused projects.
+keywords: sponsors, supporters, open source sponsorship, founder projects, AI tooling, startup experiments, community support
 ---
 
 <!-- @layout-full-width -->

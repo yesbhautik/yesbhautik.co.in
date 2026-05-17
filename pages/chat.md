@@ -1,7 +1,8 @@
 ---
 title: Let's Chat - Bhautik Bavadiya (AKA Yesbhautik)
 display: Let's Chat!
-image: https://yesbhautik.co.in/og/chat.png
+description: Book a conversation with Bhautik Bavadiya for global startup consulting, business development, GTM strategy, AI product direction, crypto, Web3, and TGE advisory.
+keywords: startup consulting, business development, go to market strategy, TGE advisory, crypto consulting, Web3 strategy, AI consulting, founder advisory
 art: dots
 ---
 

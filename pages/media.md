@@ -1,7 +1,8 @@
 ---
 title: Media Consumption - Bhautik Bavadiya (AKA Yesbhautik)
 display: Media Consumption
-description: Bhautik's Media Consumption
+description: Media, films, shows, and stories that shape Bhautik Bavadiya's perspective on creativity, business, technology, culture, and entrepreneurship.
+keywords: media consumption, founder perspective, creativity, business culture, technology culture, entrepreneurship
 ---
 
 One's life span is around 29,000 days, or 696,000 hours.

@@ -35,7 +35,6 @@
   50% {
     stroke-dasharray: 100px 0;
     stroke-dashoffset: 0;
-
   }
   90% {
     stroke-dasharray: 100px 0;
@@ -45,7 +44,6 @@
     stroke-dasharray: 100px 0;
     stroke-dashoffset: 0;
   }
-
 }
 
 .letter {
@@ -62,4 +60,4 @@
 .dark .letter {
   stroke: #fdfdfd;
 }
-</style> 
+</style>
